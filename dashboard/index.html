@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tata Motors Passenger Vehicles Dashboard</title>
+  <meta name="description" content="Explore and compare every model and variant in the Tata Motors passenger vehicle database.">
+  <link rel="icon" href="/content/dam/tml/pv/general/icons/favicon.ico" type="image/x-icon">
+  
+  <!-- Modern Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- FontAwesome for Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  
+  <!-- Chart.js for beautiful graphs -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  
+  <!-- Core Stylesheet -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  
+  <!-- Dashboard Sidebar Navigation -->
+  <aside class="sidebar">
+    <div class="sidebar-brand">
+      <div class="brand-logo"><i class="fa-solid fa-car-side"></i></div>
+      <span class="brand-name">TATA MOTORS</span>
+    </div>
+    
+    <nav class="sidebar-menu">
+      <button class="menu-item active" data-tab="showroom" id="tab-btn-showroom">
+        <i class="fa-solid fa-store"></i>
+        <span>Showroom</span>
+      </button>
+      <button class="menu-item" data-tab="compare" id="tab-btn-compare">
+        <i class="fa-solid fa-code-compare"></i>
+        <span>Compare Cars</span>
+      </button>
+      <button class="menu-item" data-tab="safety" id="tab-btn-safety">
+        <i class="fa-solid fa-shield-halved"></i>
+        <span>Safety Hub</span>
+      </button>
+      <button class="menu-item" data-tab="analytics" id="tab-btn-analytics">
+        <i class="fa-solid fa-chart-pie"></i>
+        <span>Analytics</span>
+      </button>
+      <button class="menu-item" data-tab="explorer" id="tab-btn-explorer">
+        <i class="fa-solid fa-database"></i>
+        <span>Explorer</span>
+      </button>
+    </nav>
+    
+    <div class="sidebar-footer">
+      <div class="db-status">
+        <div class="status-dot"></div>
+        <span>Database Connected</span>
+      </div>
+    </div>
+  </aside>
+  
+  <!-- Main Content Wrapper -->
+  <main class="main-content">
+    
+    <!-- Top Navbar -->
+    <header class="top-nav">
+      <h1 class="page-title" id="main-h1">Automotive Intelligence</h1>
+      <div class="quick-stats">
+        <div class="stat-pill"><i class="fa-solid fa-car"></i> <span id="stat-models">15</span> Models</div>
+        <div class="stat-pill"><i class="fa-solid fa-gears"></i> <span id="stat-variants">369</span> Variants</div>
+      </div>
+    </header>
+    
+    <!-- TAB CONTENT: SHOWROOM -->
+    <section class="tab-pane active" id="pane-showroom">
+      <div class="search-filter-bar">
+        <div class="search-box">
+          <i class="fa-solid fa-magnifying-glass"></i>
+          <input type="text" id="showroom-search" placeholder="Search model or trim (e.g. Nexon, EV, Dark)...">
+        </div>
+        <div class="filter-group">
+          <select id="filter-fuel" class="custom-select">
+            <option value="all">All Fuel Types</option>
+            <option value="petrol">Petrol</option>
+            <option value="diesel">Diesel</option>
+            <option value="cng">CNG</option>
+            <option value="electric">Electric (EV)</option>
+          </select>
+          <select id="filter-category" class="custom-select">
+            <option value="all">All Categories</option>
+            <option value="suv">SUV</option>
+            <option value="sedan">Sedan</option>
+            <option value="hatchback">Hatchback</option>
+          </select>
+        </div>
+      </div>
+      
+      <!-- Grid of Model Cards -->
+      <div class="model-grid" id="model-card-grid">
+        <!-- Dynamically populated -->
+        <div class="loading-state">
+          <i class="fa-solid fa-circle-notch fa-spin"></i>
+          <p>Loading Tata Motors Showroom...</p>
+        </div>
+      </div>
+    </section>
+    
+    <!-- TAB CONTENT: COMPARE -->
+    <section class="tab-pane" id="pane-compare">
+      <div class="compare-selector-bar">
+        <h2>Side-by-Side Comparison</h2>
+        <p class="section-subtitle">Select any two variants to compare pricing, technical specifications, and safety ratings.</p>
+        
+        <div class="comparison-selectors">
+          <div class="selector-box">
+            <label for="compare-select-1">Car 1</label>
+            <select id="compare-select-1" class="custom-select compare-dropdown">
+              <option value="">Select Variant 1</option>
+            </select>
+          </div>
+          
+          <div class="comparison-vs">VS</div>
+          
+          <div class="selector-box">
+            <label for="compare-select-2">Car 2</label>
+            <select id="compare-select-2" class="custom-select compare-dropdown">
+              <option value="">Select Variant 2</option>
+            </select>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Comparison Table Area -->
+      <div class="compare-result-container" id="compare-results" style="display: none;">
+        <div class="comparison-grid">
+          <!-- Dynamically populated comparison cells -->
+        </div>
+      </div>
+      <div class="compare-placeholder" id="compare-placeholder-msg">
+        <i class="fa-solid fa-code-compare"></i>
+        <h3>Select Two Variants Above</h3>
+        <p>Choose variants from the dropdowns to start comparing specifications, features, and price tags.</p>
+      </div>
+    </section>
+    
+    <!-- TAB CONTENT: SAFETY HUB -->
+    <section class="tab-pane" id="pane-safety">
+      <div class="safety-banner">
+        <div class="safety-banner-info">
+          <h2>Safety First Pedigree</h2>
+          <p>Tata Motors is a pioneer of crash safety in India, delivering multiple Bharat NCAP and Global NCAP 5-star rated passenger vehicles.</p>
+        </div>
+        <div class="safety-banner-icon"><i class="fa-solid fa-shield-heart"></i></div>
+      </div>
+      
+      <div class="safety-grid" id="safety-card-grid">
+        <!-- Dynamically populated safety stats -->
+      </div>
+    </section>
+    
+    <!-- TAB CONTENT: ANALYTICS -->
+    <section class="tab-pane" id="pane-analytics">
+      <div class="analytics-row">
+        <!-- Pricing Distribution -->
+        <div class="chart-card">
+          <h3>Starting Price Distribution (Ex-showroom)</h3>
+          <div class="chart-container">
+            <canvas id="priceChart"></canvas>
+          </div>
+        </div>
+        
+        <!-- Fuel Type Distribution -->
+        <div class="chart-card">
+          <h3>Variant Distribution by Fuel Type</h3>
+          <div class="chart-container">
+            <canvas id="fuelChart"></canvas>
+          </div>
+        </div>
+      </div>
+      
+      <div class="analytics-row">
+        <!-- EV Range Comparison -->
+        <div class="chart-card wide-card">
+          <h3>Electric Vehicles Range Comparison (Claimed vs Real-World estimate)</h3>
+          <div class="chart-container">
+            <canvas id="rangeChart"></canvas>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    <!-- TAB CONTENT: EXPLORER -->
+    <section class="tab-pane" id="pane-explorer">
+      <div class="explorer-toolbar">
+        <div class="search-box">
+          <i class="fa-solid fa-magnifying-glass"></i>
+          <input type="text" id="explorer-search" placeholder="Search the flat variant database...">
+        </div>
+        <button id="btn-export-csv" class="action-btn"><i class="fa-solid fa-file-arrow-down"></i> Export View</button>
+      </div>
+      
+      <div class="table-container">
+        <table class="data-table" id="explorer-table">
+          <thead>
+            <tr>
+              <th>Model</th>
+              <th>Variant</th>
+              <th>Fuel</th>
+              <th>Transmission</th>
+              <th>Price</th>
+              <th>Battery / Disp</th>
+              <th>Claimed Range / Power</th>
+            </tr>
+          </thead>
+          <tbody id="explorer-table-body">
+            <!-- Dynamically populated rows -->
+          </tbody>
+        </table>
+      </div>
+    </section>
+    
+  </main>
+  
+  <!-- DETAILS DRAWER / MODAL -->
+  <div class="modal-backdrop" id="details-modal" style="display: none;">
+    <div class="modal-drawer">
+      <button class="modal-close-btn" id="modal-close"><i class="fa-solid fa-xmark"></i></button>
+      
+      <div class="modal-header">
+        <div class="modal-header-text">
+          <div class="modal-badge" id="modal-model-badge">SUV</div>
+          <h2 id="modal-model-name">Tata Nexon</h2>
+          <p class="modal-tagline" id="modal-model-tagline">The All-New Nexon</p>
+        </div>
+        <div class="modal-header-price">
+          <span>Starting From</span>
+          <h3 id="modal-model-price">₹7,36,990</h3>
+        </div>
+      </div>
+      
+      <div class="modal-nav">
+        <button class="modal-tab-btn active" data-modaltab="modal-overview">Overview</button>
+        <button class="modal-tab-btn" data-modaltab="modal-trims">Trims & Variants</button>
+        <button class="modal-tab-btn" data-modaltab="modal-specs">Technical Specs</button>
+        <button class="modal-tab-btn" data-modaltab="modal-gallery">Gallery</button>
+      </div>
+      
+      <div class="modal-content">
+        <!-- MODAL TAB: OVERVIEW -->
+        <div class="modal-pane active" id="modal-pane-overview">
+          <div class="overview-layout">
+            <div class="overview-description">
+              <h4>Description</h4>
+              <p id="modal-model-desc">Tata Nexon is a feature-rich, high-safety compact SUV...</p>
+              
+              <div class="overview-stats">
+                <div class="ov-stat-box">
+                  <div class="ov-stat-val" id="ov-stat-variants">65</div>
+                  <div class="ov-stat-lbl">Total Trims</div>
+                </div>
+                <div class="ov-stat-box">
+                  <div class="ov-stat-val" id="ov-stat-fuel">Petrol / Diesel</div>
+                  <div class="ov-stat-lbl">Fuel Options</div>
+                </div>
+                <div class="ov-stat-box">
+                  <div class="ov-stat-val" id="ov-stat-safety">5 Star</div>
+                  <div class="ov-stat-lbl">Safety Rating</div>
+                </div>
+              </div>
+            </div>
+            <div class="overview-media">
+              <img id="modal-hero-img" src="" alt="Car Image" class="modal-hero-img">
+            </div>
+          </div>
+        </div>
+        
+        <!-- MODAL TAB: TRIMS -->
+        <div class="modal-pane" id="modal-pane-trims">
+          <div class="trim-list" id="modal-trim-list">
+            <!-- Populated dynamically with trim components -->
+          </div>
+        </div>
+        
+        <!-- MODAL TAB: SPECS -->
+        <div class="modal-pane" id="modal-pane-specs">
+          <div class="specs-grid" id="modal-specs-grid">
+            <!-- Specifications tables dynamically populated -->
+          </div>
+        </div>
+        
+        <!-- MODAL TAB: GALLERY -->
+        <div class="modal-pane" id="modal-pane-gallery">
+          <div class="gallery-grid" id="modal-gallery-grid">
+            <!-- Dynamic grid of car images -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <!-- App JavaScript file -->
+  <script src="app.js"></script>
+</body>
+</html>

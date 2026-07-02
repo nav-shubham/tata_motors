@@ -1,0 +1,4168 @@
+{
+  "results": {
+    "variantSpecFeature": [
+      {
+        "variantId": "7-24M30ZXA",
+        "variantLabel": "Creative + MR, Electric",
+        "startingPrice": "₹12,49,000",
+        "productSpecifications": [
+          {
+            "specType": "price",
+            "specTypeTitle": "Price",
+            "specList": [
+              {
+                "specLabel": "Ex-showroom",
+                "specValue": "from ₹12,49,000<sup>*</sup>"
+              }
+            ]
+          },
+          {
+            "specType": "transmission",
+            "specTypeTitle": "Transmission",
+            "specList": [
+              {
+                "specLabel": "Transmission",
+                "specValue": "Automatic"
+              }
+            ]
+          },
+          {
+            "specType": "dimensions",
+            "specTypeTitle": "Dimensions",
+            "specList": [
+              {
+                "specLabel": "Length (mm) x Width (mm) x Height (mm)",
+                "specValue": "3995   1802   1625"
+              },
+              {
+                "specLabel": "Wheelbase (mm)",
+                "specValue": "2,498"
+              },
+              {
+                "specLabel": "Ground Clearance - Unladen (mm)",
+                "specValue": "205"
+              },
+              {
+                "specLabel": "Boot Space without Parcel Shelf (L)",
+                "specValue": "350"
+              },
+              {
+                "specLabel": "Min Turning Radius (m)",
+                "specValue": "5.3"
+              }
+            ]
+          },
+          {
+            "specType": "brakes",
+            "specTypeTitle": "Brakes",
+            "specList": [
+              {
+                "specLabel": "Brake Front",
+                "specValue": "Disc"
+              },
+              {
+                "specLabel": "Brake Rear",
+                "specValue": "Drum"
+              }
+            ]
+          },
+          {
+            "specType": "suspension",
+            "specTypeTitle": "Suspension",
+            "specList": [
+              {
+                "specLabel": "Suspension Front",
+                "specValue": "Independent MacPherson strut with coil spring"
+              },
+              {
+                "specLabel": "Suspension Rear",
+                "specValue": "Twist beam with dual path Strut"
+              }
+            ]
+          },
+          {
+            "specType": "wheels and tyre",
+            "specTypeTitle": "Wheels and Tyre",
+            "specList": [
+              {
+                "specLabel": "Wheel Type",
+                "specValue": "Steel"
+              },
+              {
+                "specLabel": "Tyre Size",
+                "specValue": "215/60R16"
+              }
+            ]
+          },
+          {
+            "specType": "seating capacity",
+            "specTypeTitle": "Seating capacity",
+            "specList": [
+              {
+                "specLabel": "Seating Capacity",
+                "specValue": "5"
+              }
+            ]
+          },
+          {
+            "specType": "ev drivetrain",
+            "specTypeTitle": "EV Drivetrain",
+            "specList": [
+              {
+                "specLabel": "Battery Pack",
+                "specValue": "30 kWh High energy density Lithium ion battery pack"
+              },
+              {
+                "specLabel": "Motor Type",
+                "specValue": "Permanent Magnet Synchronous Motor"
+              },
+              {
+                "specLabel": "Electric Motor Power",
+                "specValue": "95 kW"
+              },
+              {
+                "specLabel": "Terrain Response Modes",
+                "specValue": "No"
+              },
+              {
+                "specLabel": "Multi Drive Modes",
+                "specValue": "Yes"
+              },
+              {
+                "specLabel": "Charger Option",
+                "specValue": "3.3 kW AC Charger Box"
+              },
+              {
+                "specLabel": "Thermal Management",
+                "specValue": "Liquid cooled"
+              },
+              {
+                "specLabel": "Ingress protection for motor & battery pack",
+                "specValue": "IP 67"
+              },
+              {
+                "specLabel": "Acceleration",
+                "specValue": "0-100 km/h in 9.2s"
+              },
+              {
+                "specLabel": "Emission",
+                "specValue": "Zero Tailpipe Emission"
+              },
+              {
+                "specLabel": "Drivetrain",
+                "specValue": "Motor 95 kW and Torque 215 Nm"
+              }
+            ]
+          }
+        ],
+        "productFeatures": [
+          {
+            "featureType": "exterior",
+            "featureTypeTitle": "Exterior",
+            "featureList": [
+              {
+                "featureLabel": "Antenna",
+                "featureValue": "Shark Fin"
+              },
+              {
+                "featureLabel": "Bumper Finish",
+                "featureValue": "Body Coloured"
+              },
+              {
+                "featureLabel": "Contrast Roof",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Grill Design",
+                "featureValue": "EV Specific"
+              },
+              {
+                "featureLabel": "Headlamps",
+                "featureValue": "LED MFR headlamps"
+              },
+              {
+                "featureLabel": "Integrated Spoiler",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "LED DRLs",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "ORVM With Turn Indicators",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Sunroof",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Front Fog Lamps",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Wheel Design",
+                "featureValue": "Steel"
+              }
+            ]
+          },
+          {
+            "featureType": "interior",
+            "featureTypeTitle": "Interior",
+            "featureList": [
+              {
+                "featureLabel": "Collapsible Grab Handles",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Interior Door Handle Finish",
+                "featureValue": "Chrome"
+              },
+              {
+                "featureLabel": "Instrument Cluster",
+                "featureValue": "17.78 cm Digital"
+              },
+              {
+                "featureLabel": "Rear Parcel Tray",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Rear Seat Central Armrest",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Upholstery",
+                "featureValue": "Premium Full Fabric Seat Upholstery"
+              }
+            ]
+          },
+          {
+            "featureType": "comfort and convenience",
+            "featureTypeTitle": "Comfort and Convenience",
+            "featureList": [
+              {
+                "featureLabel": "Adjustable Driver Seat",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Tilt Adjustable Steering",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Air Conditioner",
+                "featureValue": "FATC"
+              },
+              {
+                "featureLabel": "Air Purifier",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Electrically Foldable ORVMs",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Automatic Headlamps",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Central Locking",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Cruise Control",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Electric Tailgate Opening",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Electrically Adjustable ORVMs",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Follow Me Home Headlamps",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Adjustable Headrest",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Armrest",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Height Adjustable Front Seatbelts",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "One-Shot Power Window Driver Side",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Power Windows",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Push Button Start Stop With Smart Key",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rain Sensing Wipers",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Rear 60:40 Seat Split Fold",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Rear AC Vent",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Rear Armrest",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Rear Power Outlet",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Rear Wiper Washer",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Steering Mounted Controls",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Ventilated Seats",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Wireless Charger",
+                "featureValue": "No"
+              }
+            ]
+          },
+          {
+            "featureType": "safety and security",
+            "featureTypeTitle": "Safety and Security",
+            "featureList": [
+              {
+                "featureLabel": "ABS With EBD",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "All Disc Brakes",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Brake Disc Wiping",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Airbags",
+                "featureValue": "6 airbags"
+              },
+              {
+                "featureLabel": "Electronic Parking Brake (EPB) With Auto Hold",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Electronic Stability program",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Global NCAP Rating",
+                "featureValue": "Based on GNCAP5 star rated platform"
+              },
+              {
+                "featureLabel": "Headlamp Leveling",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Hill Descent Control",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Hill Hold Control",
+                "featureValue": "Assist"
+              },
+              {
+                "featureLabel": "ISOFIX",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Puncture Repair Kit",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Defogger",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Rear Parking Sensors",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Reverse Parking Camera",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Seat Belt With Pretensioners & Load Limiters",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Speed Dependent Auto Door Locks",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Tyre Pressure Monitoring System (TPMS)",
+                "featureValue": "iTPMS"
+              }
+            ]
+          },
+          {
+            "featureType": "infotainment",
+            "featureTypeTitle": "Infotainment",
+            "featureList": [
+              {
+                "featureLabel": "Apple CarPlay™ And Andriod Auto™",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Connected Car Technology",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Image And Video Play Back",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Infotainment System",
+                "featureValue": "17.78 cm Touchscreen Infotainment by HARMAN"
+              },
+              {
+                "featureLabel": "Speakers",
+                "featureValue": "4"
+              },
+              {
+                "featureLabel": "Tweeters",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Speed Dependent Volume Control",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Voice Assist",
+                "featureValue": "Yes"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "variantId": "7-24M30ZYR",
+        "variantLabel": "Fearless MR, Electric",
+        "startingPrice": "₹13,29,000",
+        "productSpecifications": [
+          {
+            "specType": "price",
+            "specTypeTitle": "Price",
+            "specList": [
+              {
+                "specLabel": "Ex-showroom",
+                "specValue": "from ₹13,29,000<sup>*</sup>"
+              }
+            ]
+          },
+          {
+            "specType": "transmission",
+            "specTypeTitle": "Transmission",
+            "specList": [
+              {
+                "specLabel": "Transmission",
+                "specValue": "Automatic"
+              }
+            ]
+          },
+          {
+            "specType": "dimensions",
+            "specTypeTitle": "Dimensions",
+            "specList": [
+              {
+                "specLabel": "Length (mm) x Width (mm) x Height (mm)",
+                "specValue": "3995   1802   1625"
+              },
+              {
+                "specLabel": "Wheelbase (mm)",
+                "specValue": "2,498"
+              },
+              {
+                "specLabel": "Ground Clearance - Unladen (mm)",
+                "specValue": "205"
+              },
+              {
+                "specLabel": "Boot Space without Parcel Shelf (L)",
+                "specValue": "350"
+              },
+              {
+                "specLabel": "Min Turning Radius (m)",
+                "specValue": "5.3"
+              }
+            ]
+          },
+          {
+            "specType": "brakes",
+            "specTypeTitle": "Brakes",
+            "specList": [
+              {
+                "specLabel": "Brake Front",
+                "specValue": "Disc"
+              },
+              {
+                "specLabel": "Brake Rear",
+                "specValue": "Drum"
+              }
+            ]
+          },
+          {
+            "specType": "suspension",
+            "specTypeTitle": "Suspension",
+            "specList": [
+              {
+                "specLabel": "Suspension Front",
+                "specValue": "Independent MacPherson strut with coil spring"
+              },
+              {
+                "specLabel": "Suspension Rear",
+                "specValue": "Twist beam with dual path Strut"
+              }
+            ]
+          },
+          {
+            "specType": "wheels and tyre",
+            "specTypeTitle": "Wheels and Tyre",
+            "specList": [
+              {
+                "specLabel": "Wheel Type",
+                "specValue": "Alloy"
+              },
+              {
+                "specLabel": "Tyre Size",
+                "specValue": "215/60R16"
+              }
+            ]
+          },
+          {
+            "specType": "seating capacity",
+            "specTypeTitle": "Seating capacity",
+            "specList": [
+              {
+                "specLabel": "Seating Capacity",
+                "specValue": "5"
+              }
+            ]
+          },
+          {
+            "specType": "ev drivetrain",
+            "specTypeTitle": "EV Drivetrain",
+            "specList": [
+              {
+                "specLabel": "Battery Pack",
+                "specValue": "30 kWh High energy density Lithium ion battery pack"
+              },
+              {
+                "specLabel": "Motor Type",
+                "specValue": "Permanent Magnet Synchronous Motor"
+              },
+              {
+                "specLabel": "Electric Motor Power",
+                "specValue": "95 kW"
+              },
+              {
+                "specLabel": "Terrain Response Modes",
+                "specValue": "No"
+              },
+              {
+                "specLabel": "Multi Drive Modes",
+                "specValue": "Yes"
+              },
+              {
+                "specLabel": "Charger Option",
+                "specValue": "3.3 kW AC Charger Box"
+              },
+              {
+                "specLabel": "Thermal Management",
+                "specValue": "Liquid cooled"
+              },
+              {
+                "specLabel": "Ingress protection for motor & battery pack",
+                "specValue": "IP 67"
+              },
+              {
+                "specLabel": "Acceleration",
+                "specValue": "0-100 km/h in 9.2s"
+              },
+              {
+                "specLabel": "Emission",
+                "specValue": "Zero Tailpipe Emission"
+              },
+              {
+                "specLabel": "Drivetrain",
+                "specValue": "Motor 95 kW and Torque 215 Nm"
+              }
+            ]
+          }
+        ],
+        "productFeatures": [
+          {
+            "featureType": "exterior",
+            "featureTypeTitle": "Exterior",
+            "featureList": [
+              {
+                "featureLabel": "Antenna",
+                "featureValue": "Shark Fin with GPS"
+              },
+              {
+                "featureLabel": "Bumper Finish",
+                "featureValue": "Body Coloured"
+              },
+              {
+                "featureLabel": "Contrast Roof",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Grill Design",
+                "featureValue": "EV Specific"
+              },
+              {
+                "featureLabel": "Headlamps",
+                "featureValue": "LED Projector headlamps"
+              },
+              {
+                "featureLabel": "Integrated Spoiler",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "LED DRLs",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "ORVM With Turn Indicators",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Sunroof",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Front Fog Lamps",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Wheel Design",
+                "featureValue": "Alloy Wheel"
+              }
+            ]
+          },
+          {
+            "featureType": "interior",
+            "featureTypeTitle": "Interior",
+            "featureList": [
+              {
+                "featureLabel": "Collapsible Grab Handles",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Interior Door Handle Finish",
+                "featureValue": "Chrome"
+              },
+              {
+                "featureLabel": "Instrument Cluster",
+                "featureValue": "26.03 cm HD Full Colour vision"
+              },
+              {
+                "featureLabel": "Rear Parcel Tray",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Seat Central Armrest",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Upholstery",
+                "featureValue": "Premium Full Fabric Seat Upholstery"
+              }
+            ]
+          },
+          {
+            "featureType": "comfort and convenience",
+            "featureTypeTitle": "Comfort and Convenience",
+            "featureList": [
+              {
+                "featureLabel": "Adjustable Driver Seat",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Tilt Adjustable Steering",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Air Conditioner",
+                "featureValue": "FATC"
+              },
+              {
+                "featureLabel": "Air Purifier",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Electrically Foldable ORVMs",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Automatic Headlamps",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Central Locking",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Cruise Control",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Electric Tailgate Opening",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Electrically Adjustable ORVMs",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Follow Me Home Headlamps",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Adjustable Headrest",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Armrest",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Height Adjustable Front Seatbelts",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "One-Shot Power Window Driver Side",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Power Windows",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Push Button Start Stop With Smart Key",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rain Sensing Wipers",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Rear 60:40 Seat Split Fold",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Rear AC Vent",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Armrest",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Rear Power Outlet",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Wiper Washer",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Steering Mounted Controls",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Ventilated Seats",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Wireless Charger",
+                "featureValue": "No"
+              }
+            ]
+          },
+          {
+            "featureType": "safety and security",
+            "featureTypeTitle": "Safety and Security",
+            "featureList": [
+              {
+                "featureLabel": "ABS With EBD",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "All Disc Brakes",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Brake Disc Wiping",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Airbags",
+                "featureValue": "6 airbags"
+              },
+              {
+                "featureLabel": "Electronic Parking Brake (EPB) With Auto Hold",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Electronic Stability program",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Global NCAP Rating",
+                "featureValue": "Based on GNCAP5 star rated platform"
+              },
+              {
+                "featureLabel": "Headlamp Leveling",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Hill Descent Control",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Hill Hold Control",
+                "featureValue": "Assist"
+              },
+              {
+                "featureLabel": "ISOFIX",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Puncture Repair Kit",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Defogger",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Parking Sensors",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Reverse Parking Camera",
+                "featureValue": "HD Camera"
+              },
+              {
+                "featureLabel": "Seat Belt With Pretensioners & Load Limiters",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Speed Dependent Auto Door Locks",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Tyre Pressure Monitoring System (TPMS)",
+                "featureValue": "iTPMS"
+              }
+            ]
+          },
+          {
+            "featureType": "infotainment",
+            "featureTypeTitle": "Infotainment",
+            "featureList": [
+              {
+                "featureLabel": "Apple CarPlay™ And Andriod Auto™",
+                "featureValue": "Over Wifi"
+              },
+              {
+                "featureLabel": "Connected Car Technology",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Image And Video Play Back",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Infotainment System",
+                "featureValue": "26.03 cm Cinematic Touchscreen Infotainment by HARMAN"
+              },
+              {
+                "featureLabel": "Speakers",
+                "featureValue": "4"
+              },
+              {
+                "featureLabel": "Tweeters",
+                "featureValue": "4"
+              },
+              {
+                "featureLabel": "Speed Dependent Volume Control",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Voice Assist",
+                "featureValue": "Yes"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "variantId": "7-24M960RB",
+        "variantLabel": "Creative 45, Electric",
+        "startingPrice": "₹13,99,000",
+        "productSpecifications": [
+          {
+            "specType": "price",
+            "specTypeTitle": "Price",
+            "specList": [
+              {
+                "specLabel": "Ex-showroom",
+                "specValue": "from ₹13,99,000<sup>*</sup>"
+              }
+            ]
+          },
+          {
+            "specType": "transmission",
+            "specTypeTitle": "Transmission",
+            "specList": [
+              {
+                "specLabel": "Transmission",
+                "specValue": "Automatic"
+              }
+            ]
+          },
+          {
+            "specType": "dimensions",
+            "specTypeTitle": "Dimensions",
+            "specList": [
+              {
+                "specLabel": "Length (mm) x Width (mm) x Height (mm)",
+                "specValue": "3995   1802   1625"
+              },
+              {
+                "specLabel": "Wheelbase (mm)",
+                "specValue": "2,498"
+              },
+              {
+                "specLabel": "Ground Clearance - Unladen (mm)",
+                "specValue": "190"
+              },
+              {
+                "specLabel": "Boot Space without Parcel Shelf (L)",
+                "specValue": "350"
+              },
+              {
+                "specLabel": "Min Turning Radius (m)",
+                "specValue": "5.3"
+              }
+            ]
+          },
+          {
+            "specType": "brakes",
+            "specTypeTitle": "Brakes",
+            "specList": [
+              {
+                "specLabel": "Brake Front",
+                "specValue": "Disc"
+              },
+              {
+                "specLabel": "Brake Rear",
+                "specValue": "Disc"
+              }
+            ]
+          },
+          {
+            "specType": "suspension",
+            "specTypeTitle": "Suspension",
+            "specList": [
+              {
+                "specLabel": "Suspension Front",
+                "specValue": "Independent MacPherson strut with coil spring"
+              },
+              {
+                "specLabel": "Suspension Rear",
+                "specValue": "Twist beam with dual path Strut"
+              }
+            ]
+          },
+          {
+            "specType": "wheels and tyre",
+            "specTypeTitle": "Wheels and Tyre",
+            "specList": [
+              {
+                "specLabel": "Wheel Type",
+                "specValue": "Alloy"
+              },
+              {
+                "specLabel": "Tyre Size",
+                "specValue": "215/60R16"
+              }
+            ]
+          },
+          {
+            "specType": "seating capacity",
+            "specTypeTitle": "Seating capacity",
+            "specList": [
+              {
+                "specLabel": "Seating Capacity",
+                "specValue": "5"
+              }
+            ]
+          },
+          {
+            "specType": "ev drivetrain",
+            "specTypeTitle": "EV Drivetrain",
+            "specList": [
+              {
+                "specLabel": "Battery Pack",
+                "specValue": "45 kWh High energy density Lithium ion battery pack"
+              },
+              {
+                "specLabel": "Motor Type",
+                "specValue": "Permanent Magnet Synchronous Motor"
+              },
+              {
+                "specLabel": "Electric Motor Power",
+                "specValue": "106kW"
+              },
+              {
+                "specLabel": "Terrain Response Modes",
+                "specValue": "No"
+              },
+              {
+                "specLabel": "Multi Drive Modes",
+                "specValue": "Yes"
+              },
+              {
+                "specLabel": "Charger Option",
+                "specValue": "3.3 kW AC Charger Box"
+              },
+              {
+                "specLabel": "Thermal Management",
+                "specValue": "Liquid cooled"
+              },
+              {
+                "specLabel": "Ingress protection for motor & battery pack",
+                "specValue": "IP 67"
+              },
+              {
+                "specLabel": "Acceleration",
+                "specValue": "0-100 km/h in 8.9s"
+              },
+              {
+                "specLabel": "Emission",
+                "specValue": "Zero Tailpipe Emission"
+              },
+              {
+                "specLabel": "Drivetrain",
+                "specValue": "Motor 106 kW and Torque 215 Nm"
+              }
+            ]
+          }
+        ],
+        "productFeatures": [
+          {
+            "featureType": "exterior",
+            "featureTypeTitle": "Exterior",
+            "featureList": [
+              {
+                "featureLabel": "Antenna",
+                "featureValue": "Shark Fin"
+              },
+              {
+                "featureLabel": "Bumper Finish",
+                "featureValue": "Body Coloured"
+              },
+              {
+                "featureLabel": "Contrast Roof",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Front Grill Design",
+                "featureValue": "EV Specific"
+              },
+              {
+                "featureLabel": "Headlamps",
+                "featureValue": "LED MFR headlamps"
+              },
+              {
+                "featureLabel": "Integrated Spoiler",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "LED DRLs",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "ORVM With Turn Indicators",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Sunroof",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Front Fog Lamps",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Wheel Design",
+                "featureValue": "Alloy Wheel"
+              }
+            ]
+          },
+          {
+            "featureType": "interior",
+            "featureTypeTitle": "Interior",
+            "featureList": [
+              {
+                "featureLabel": "Collapsible Grab Handles",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Interior Door Handle Finish",
+                "featureValue": "Chrome"
+              },
+              {
+                "featureLabel": "Instrument Cluster",
+                "featureValue": "17.78 cm Digital"
+              },
+              {
+                "featureLabel": "Rear Parcel Tray",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Rear Seat Central Armrest",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Upholstery",
+                "featureValue": "Premium Full Fabric Seat Upholstery"
+              }
+            ]
+          },
+          {
+            "featureType": "comfort and convenience",
+            "featureTypeTitle": "Comfort and Convenience",
+            "featureList": [
+              {
+                "featureLabel": "Adjustable Driver Seat",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Tilt Adjustable Steering",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Air Conditioner",
+                "featureValue": "FATC"
+              },
+              {
+                "featureLabel": "Air Purifier",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Electrically Foldable ORVMs",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Automatic Headlamps",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Central Locking",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Cruise Control",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Electric Tailgate Opening",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Electrically Adjustable ORVMs",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Follow Me Home Headlamps",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Adjustable Headrest",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Armrest",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Height Adjustable Front Seatbelts",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "One-Shot Power Window Driver Side",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Power Windows",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Push Button Start Stop With Smart Key",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rain Sensing Wipers",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Rear 60:40 Seat Split Fold",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Rear AC Vent",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Rear Armrest",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Rear Power Outlet",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Rear Wiper Washer",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Steering Mounted Controls",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Ventilated Seats",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Wireless Charger",
+                "featureValue": "No"
+              }
+            ]
+          },
+          {
+            "featureType": "safety and security",
+            "featureTypeTitle": "Safety and Security",
+            "featureList": [
+              {
+                "featureLabel": "ABS With EBD",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "All Disc Brakes",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Brake Disc Wiping",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Airbags",
+                "featureValue": "6 airbags"
+              },
+              {
+                "featureLabel": "Electronic Parking Brake (EPB) With Auto Hold",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Electronic Stability program",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Global NCAP Rating",
+                "featureValue": "BNCAP 5 star"
+              },
+              {
+                "featureLabel": "Headlamp Leveling",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Hill Descent Control",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Hill Hold Control",
+                "featureValue": "Assist"
+              },
+              {
+                "featureLabel": "ISOFIX",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Puncture Repair Kit",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Defogger",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Rear Parking Sensors",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Reverse Parking Camera",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Seat Belt With Pretensioners & Load Limiters",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Speed Dependent Auto Door Locks",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Tyre Pressure Monitoring System (TPMS)",
+                "featureValue": "iTPMS"
+              }
+            ]
+          },
+          {
+            "featureType": "infotainment",
+            "featureTypeTitle": "Infotainment",
+            "featureList": [
+              {
+                "featureLabel": "Apple CarPlay™ And Andriod Auto™"
+              },
+              {
+                "featureLabel": "Connected Car Technology",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Image And Video Play Back",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Infotainment System",
+                "featureValue": "17.78 cm Touchscreen Infotainment by HARMAN"
+              },
+              {
+                "featureLabel": "Speakers",
+                "featureValue": "4"
+              },
+              {
+                "featureLabel": "Tweeters",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Speed Dependent Volume Control",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Voice Assist",
+                "featureValue": "Yes"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "variantId": "7-24VP0II9",
+        "variantLabel": "Fearless 45, Electric",
+        "startingPrice": "₹14,99,000",
+        "productSpecifications": [
+          {
+            "specType": "price",
+            "specTypeTitle": "Price",
+            "specList": [
+              {
+                "specLabel": "Ex-showroom",
+                "specValue": "from ₹14,99,000<sup>*</sup>"
+              }
+            ]
+          },
+          {
+            "specType": "transmission",
+            "specTypeTitle": "Transmission",
+            "specList": [
+              {
+                "specLabel": "Transmission",
+                "specValue": "Automatic"
+              }
+            ]
+          },
+          {
+            "specType": "dimensions",
+            "specTypeTitle": "Dimensions",
+            "specList": [
+              {
+                "specLabel": "Length (mm) x Width (mm) x Height (mm)",
+                "specValue": "3995   1802   1625"
+              },
+              {
+                "specLabel": "Wheelbase (mm)",
+                "specValue": "2,498"
+              },
+              {
+                "specLabel": "Ground Clearance - Unladen (mm)",
+                "specValue": "190"
+              },
+              {
+                "specLabel": "Boot Space without Parcel Shelf (L)",
+                "specValue": "350"
+              },
+              {
+                "specLabel": "Min Turning Radius (m)",
+                "specValue": "5.3"
+              }
+            ]
+          },
+          {
+            "specType": "brakes",
+            "specTypeTitle": "Brakes",
+            "specList": [
+              {
+                "specLabel": "Brake Front",
+                "specValue": "Disc"
+              },
+              {
+                "specLabel": "Brake Rear",
+                "specValue": "Disc"
+              }
+            ]
+          },
+          {
+            "specType": "suspension",
+            "specTypeTitle": "Suspension",
+            "specList": [
+              {
+                "specLabel": "Suspension Front",
+                "specValue": "Independent MacPherson strut with coil spring"
+              },
+              {
+                "specLabel": "Suspension Rear",
+                "specValue": "Twist beam with dual path Strut"
+              }
+            ]
+          },
+          {
+            "specType": "wheels and tyre",
+            "specTypeTitle": "Wheels and Tyre",
+            "specList": [
+              {
+                "specLabel": "Wheel Type",
+                "specValue": "Alloy"
+              },
+              {
+                "specLabel": "Tyre Size",
+                "specValue": "215/60R16"
+              }
+            ]
+          },
+          {
+            "specType": "seating capacity",
+            "specTypeTitle": "Seating capacity",
+            "specList": [
+              {
+                "specLabel": "Seating Capacity",
+                "specValue": "5"
+              }
+            ]
+          },
+          {
+            "specType": "ev drivetrain",
+            "specTypeTitle": "EV Drivetrain",
+            "specList": [
+              {
+                "specLabel": "Battery Pack",
+                "specValue": "45 kWh High energy density Lithium ion battery pack"
+              },
+              {
+                "specLabel": "Motor Type",
+                "specValue": "Permanent Magnet Synchronous Motor"
+              },
+              {
+                "specLabel": "Electric Motor Power",
+                "specValue": "106kW"
+              },
+              {
+                "specLabel": "Terrain Response Modes",
+                "specValue": "No"
+              },
+              {
+                "specLabel": "Multi Drive Modes",
+                "specValue": "Yes"
+              },
+              {
+                "specLabel": "Charger Option",
+                "specValue": "3.3 kW AC Charger Box"
+              },
+              {
+                "specLabel": "Thermal Management",
+                "specValue": "Liquid cooled"
+              },
+              {
+                "specLabel": "Ingress protection for motor & battery pack",
+                "specValue": "IP 67"
+              },
+              {
+                "specLabel": "Acceleration",
+                "specValue": "0-100 km/h in 8.9s"
+              },
+              {
+                "specLabel": "Emission",
+                "specValue": "Zero Tailpipe Emission"
+              },
+              {
+                "specLabel": "Drivetrain",
+                "specValue": "Motor 106 kW and Torque 215 Nm"
+              }
+            ]
+          }
+        ],
+        "productFeatures": [
+          {
+            "featureType": "exterior",
+            "featureTypeTitle": "Exterior",
+            "featureList": [
+              {
+                "featureLabel": "Antenna",
+                "featureValue": "Shark Fin with GPS"
+              },
+              {
+                "featureLabel": "Bumper Finish",
+                "featureValue": "Body Coloured"
+              },
+              {
+                "featureLabel": "Contrast Roof",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Grill Design",
+                "featureValue": "EV Specific"
+              },
+              {
+                "featureLabel": "Headlamps",
+                "featureValue": "LED Projector headlamps"
+              },
+              {
+                "featureLabel": "Integrated Spoiler",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "LED DRLs",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "ORVM With Turn Indicators",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Sunroof",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Front Fog Lamps",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Wheel Design",
+                "featureValue": "Alloy Wheel"
+              }
+            ]
+          },
+          {
+            "featureType": "interior",
+            "featureTypeTitle": "Interior",
+            "featureList": [
+              {
+                "featureLabel": "Collapsible Grab Handles",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Interior Door Handle Finish",
+                "featureValue": "Chrome"
+              },
+              {
+                "featureLabel": "Instrument Cluster",
+                "featureValue": "26.03 cm HD Full Colour vision"
+              },
+              {
+                "featureLabel": "Rear Parcel Tray",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Seat Central Armrest",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Upholstery",
+                "featureValue": "Premium Full Fabric Seat Upholstery"
+              }
+            ]
+          },
+          {
+            "featureType": "comfort and convenience",
+            "featureTypeTitle": "Comfort and Convenience",
+            "featureList": [
+              {
+                "featureLabel": "Adjustable Driver Seat",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Tilt Adjustable Steering",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Air Conditioner",
+                "featureValue": "FATC"
+              },
+              {
+                "featureLabel": "Air Purifier",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Electrically Foldable ORVMs",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Automatic Headlamps",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Central Locking",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Cruise Control",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Electric Tailgate Opening",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Electrically Adjustable ORVMs",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Follow Me Home Headlamps",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Adjustable Headrest",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Armrest",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Height Adjustable Front Seatbelts",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "One-Shot Power Window Driver Side",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Power Windows",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Push Button Start Stop With Smart Key",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rain Sensing Wipers",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Rear 60:40 Seat Split Fold",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Rear AC Vent",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Armrest",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Rear Power Outlet",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Wiper Washer",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Steering Mounted Controls",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Ventilated Seats",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Wireless Charger",
+                "featureValue": "No"
+              }
+            ]
+          },
+          {
+            "featureType": "safety and security",
+            "featureTypeTitle": "Safety and Security",
+            "featureList": [
+              {
+                "featureLabel": "ABS With EBD",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "All Disc Brakes",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Brake Disc Wiping",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Airbags",
+                "featureValue": "6 airbags"
+              },
+              {
+                "featureLabel": "Electronic Parking Brake (EPB) With Auto Hold",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Electronic Stability program",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Global NCAP Rating",
+                "featureValue": "BNCAP 5 star"
+              },
+              {
+                "featureLabel": "Headlamp Leveling",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Hill Descent Control",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Hill Hold Control",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "ISOFIX",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Puncture Repair Kit",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Defogger",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Parking Sensors",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Reverse Parking Camera",
+                "featureValue": "HD Camera"
+              },
+              {
+                "featureLabel": "Seat Belt With Pretensioners & Load Limiters",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Speed Dependent Auto Door Locks",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Tyre Pressure Monitoring System (TPMS)",
+                "featureValue": "iTPMS"
+              }
+            ]
+          },
+          {
+            "featureType": "infotainment",
+            "featureTypeTitle": "Infotainment",
+            "featureList": [
+              {
+                "featureLabel": "Apple CarPlay™ And Andriod Auto™",
+                "featureValue": "Over Wifi"
+              },
+              {
+                "featureLabel": "Connected Car Technology",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Image And Video Play Back",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Infotainment System",
+                "featureValue": "26.03 cm Cinematic Touchscreen Infotainment by HARMAN"
+              },
+              {
+                "featureLabel": "Speakers",
+                "featureValue": "4"
+              },
+              {
+                "featureLabel": "Tweeters",
+                "featureValue": "4"
+              },
+              {
+                "featureLabel": "Speed Dependent Volume Control",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Voice Assist",
+                "featureValue": "Yes"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "variantId": "7-24VP0IHT",
+        "variantLabel": "Empowered 45, Electric",
+        "startingPrice": "₹15,99,000",
+        "productSpecifications": [
+          {
+            "specType": "price",
+            "specTypeTitle": "Price",
+            "specList": [
+              {
+                "specLabel": "Ex-showroom",
+                "specValue": "from ₹15,99,000<sup>*</sup>"
+              }
+            ]
+          },
+          {
+            "specType": "transmission",
+            "specTypeTitle": "Transmission",
+            "specList": [
+              {
+                "specLabel": "Transmission",
+                "specValue": "Automatic"
+              }
+            ]
+          },
+          {
+            "specType": "dimensions",
+            "specTypeTitle": "Dimensions",
+            "specList": [
+              {
+                "specLabel": "Length (mm) x Width (mm) x Height (mm)",
+                "specValue": "3995   1802   1625"
+              },
+              {
+                "specLabel": "Wheelbase (mm)",
+                "specValue": "2,498"
+              },
+              {
+                "specLabel": "Ground Clearance - Unladen (mm)",
+                "specValue": "190"
+              },
+              {
+                "specLabel": "Boot Space without Parcel Shelf (L)",
+                "specValue": "350"
+              },
+              {
+                "specLabel": "Min Turning Radius (m)",
+                "specValue": "5.3"
+              }
+            ]
+          },
+          {
+            "specType": "brakes",
+            "specTypeTitle": "Brakes",
+            "specList": [
+              {
+                "specLabel": "Brake Front",
+                "specValue": "Disc"
+              },
+              {
+                "specLabel": "Brake Rear",
+                "specValue": "Disc"
+              }
+            ]
+          },
+          {
+            "specType": "suspension",
+            "specTypeTitle": "Suspension",
+            "specList": [
+              {
+                "specLabel": "Suspension Front",
+                "specValue": "Independent MacPherson strut with coil spring"
+              },
+              {
+                "specLabel": "Suspension Rear",
+                "specValue": "Twist beam with dual path Strut"
+              }
+            ]
+          },
+          {
+            "specType": "wheels and tyre",
+            "specTypeTitle": "Wheels and Tyre",
+            "specList": [
+              {
+                "specLabel": "Wheel Type",
+                "specValue": "Alloy"
+              },
+              {
+                "specLabel": "Tyre Size",
+                "specValue": "215/60R16"
+              }
+            ]
+          },
+          {
+            "specType": "seating capacity",
+            "specTypeTitle": "Seating capacity",
+            "specList": [
+              {
+                "specLabel": "Seating Capacity",
+                "specValue": "5"
+              }
+            ]
+          },
+          {
+            "specType": "ev drivetrain",
+            "specTypeTitle": "EV Drivetrain",
+            "specList": [
+              {
+                "specLabel": "Battery Pack",
+                "specValue": "45 kWh High energy density Lithium ion battery pack"
+              },
+              {
+                "specLabel": "Motor Type",
+                "specValue": "Permanent Magnet Synchronous Motor"
+              },
+              {
+                "specLabel": "Electric Motor Power",
+                "specValue": "106kW"
+              },
+              {
+                "specLabel": "Terrain Response Modes",
+                "specValue": "No"
+              },
+              {
+                "specLabel": "Multi Drive Modes",
+                "specValue": "Yes"
+              },
+              {
+                "specLabel": "Charger Option",
+                "specValue": "3.3 kW AC Charger Box"
+              },
+              {
+                "specLabel": "Thermal Management",
+                "specValue": "Liquid cooled"
+              },
+              {
+                "specLabel": "Ingress protection for motor & battery pack",
+                "specValue": "IP 67"
+              },
+              {
+                "specLabel": "Acceleration",
+                "specValue": "0-100 km/h in 8.9s"
+              },
+              {
+                "specLabel": "Emission",
+                "specValue": "Zero Tailpipe Emission"
+              },
+              {
+                "specLabel": "Drivetrain",
+                "specValue": "Motor 106 kW and Torque 215 Nm"
+              }
+            ]
+          }
+        ],
+        "productFeatures": [
+          {
+            "featureType": "exterior",
+            "featureTypeTitle": "Exterior",
+            "featureList": [
+              {
+                "featureLabel": "Antenna",
+                "featureValue": "Shark Fin with GPS"
+              },
+              {
+                "featureLabel": "Bumper Finish",
+                "featureValue": "Body Coloured"
+              },
+              {
+                "featureLabel": "Contrast Roof",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Grill Design",
+                "featureValue": "EV Specific"
+              },
+              {
+                "featureLabel": "Headlamps",
+                "featureValue": "LED Projector headlamps"
+              },
+              {
+                "featureLabel": "Integrated Spoiler",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "LED DRLs",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "ORVM With Turn Indicators",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Sunroof",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Fog Lamps",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Wheel Design",
+                "featureValue": "Alloy Wheel"
+              }
+            ]
+          },
+          {
+            "featureType": "interior",
+            "featureTypeTitle": "Interior",
+            "featureList": [
+              {
+                "featureLabel": "Collapsible Grab Handles",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Interior Door Handle Finish",
+                "featureValue": "Chrome"
+              },
+              {
+                "featureLabel": "Instrument Cluster",
+                "featureValue": "26.03 cm HD Full Colour vision"
+              },
+              {
+                "featureLabel": "Rear Parcel Tray",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Seat Central Armrest",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Upholstery",
+                "featureValue": "Premium Leatherette Seat Upholstery"
+              }
+            ]
+          },
+          {
+            "featureType": "comfort and convenience",
+            "featureTypeTitle": "Comfort and Convenience",
+            "featureList": [
+              {
+                "featureLabel": "Adjustable Driver Seat",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Tilt Adjustable Steering",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Air Conditioner",
+                "featureValue": "FATC"
+              },
+              {
+                "featureLabel": "Air Purifier",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Electrically Foldable ORVMs",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Automatic Headlamps",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Central Locking",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Cruise Control",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Electric Tailgate Opening",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Electrically Adjustable ORVMs",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Follow Me Home Headlamps",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Adjustable Headrest",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Armrest",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Height Adjustable Front Seatbelts",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "One-Shot Power Window Driver Side",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Power Windows",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Push Button Start Stop With Smart Key",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rain Sensing Wipers",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear 60:40 Seat Split Fold",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear AC Vent",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Armrest",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Power Outlet",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Wiper Washer",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Steering Mounted Controls",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Ventilated Seats",
+                "featureValue": "No"
+              },
+              {
+                "featureLabel": "Wireless Charger",
+                "featureValue": "Yes"
+              }
+            ]
+          },
+          {
+            "featureType": "safety and security",
+            "featureTypeTitle": "Safety and Security",
+            "featureList": [
+              {
+                "featureLabel": "ABS With EBD",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "All Disc Brakes",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Brake Disc Wiping",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Airbags",
+                "featureValue": "6 airbags"
+              },
+              {
+                "featureLabel": "Electronic Parking Brake (EPB) With Auto Hold",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Electronic Stability program",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Global NCAP Rating",
+                "featureValue": "BNCAP 5 star"
+              },
+              {
+                "featureLabel": "Headlamp Leveling",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Hill Descent Control",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Hill Hold Control",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "ISOFIX",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Puncture Repair Kit",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Defogger",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Parking Sensors",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Reverse Parking Camera",
+                "featureValue": "HD Camera"
+              },
+              {
+                "featureLabel": "Seat Belt With Pretensioners & Load Limiters",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Speed Dependent Auto Door Locks",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Tyre Pressure Monitoring System (TPMS)",
+                "featureValue": "Yes"
+              }
+            ]
+          },
+          {
+            "featureType": "infotainment",
+            "featureTypeTitle": "Infotainment",
+            "featureList": [
+              {
+                "featureLabel": "Apple CarPlay™ And Andriod Auto™"
+              },
+              {
+                "featureLabel": "Connected Car Technology",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Image And Video Play Back",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Infotainment System",
+                "featureValue": "26.03 cm Cinematic Touchscreen Infotainment by HARMAN"
+              },
+              {
+                "featureLabel": "Speakers",
+                "featureValue": "4"
+              },
+              {
+                "featureLabel": "Tweeters",
+                "featureValue": "4"
+              },
+              {
+                "featureLabel": "Speed Dependent Volume Control",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Voice Assist",
+                "featureValue": "Yes"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "variantId": "7-21M30ZXK",
+        "variantLabel": "IB Nexon K3.ev Emp + 45, Electric",
+        "startingPrice": "₹16,29,000",
+        "productSpecifications": [
+          {
+            "specType": "price",
+            "specTypeTitle": "Price",
+            "specList": [
+              {
+                "specLabel": "Ex-showroom",
+                "specValue": "from ₹16,29,000<sup>*</sup>"
+              }
+            ]
+          },
+          {
+            "specType": "transmission",
+            "specTypeTitle": "Transmission",
+            "specList": [
+              {
+                "specLabel": "Transmission",
+                "specValue": "Automatic"
+              }
+            ]
+          },
+          {
+            "specType": "dimensions",
+            "specTypeTitle": "Dimensions",
+            "specList": [
+              {
+                "specLabel": "Length (mm) x Width (mm) x Height (mm)",
+                "specValue": "3995x1802x1625"
+              },
+              {
+                "specLabel": "Wheelbase (mm)",
+                "specValue": "2,498"
+              },
+              {
+                "specLabel": "Ground Clearance - Unladen (mm)",
+                "specValue": "190"
+              },
+              {
+                "specLabel": "Boot Space without Parcel Shelf (L)",
+                "specValue": "350"
+              },
+              {
+                "specLabel": "Min Turning Radius (m)",
+                "specValue": "5.3"
+              }
+            ]
+          },
+          {
+            "specType": "brakes",
+            "specTypeTitle": "Brakes",
+            "specList": [
+              {
+                "specLabel": "Brake Front",
+                "specValue": "Disc"
+              },
+              {
+                "specLabel": "Brake Rear",
+                "specValue": "Disc"
+              }
+            ]
+          },
+          {
+            "specType": "suspension",
+            "specTypeTitle": "Suspension",
+            "specList": [
+              {
+                "specLabel": "Suspension Front",
+                "specValue": "Independent MacPherson strut with coil spring"
+              },
+              {
+                "specLabel": "Suspension Rear",
+                "specValue": "Twist beam with dual path Strut"
+              }
+            ]
+          },
+          {
+            "specType": "wheels and tyre",
+            "specTypeTitle": "Wheels and Tyre",
+            "specList": [
+              {
+                "specLabel": "Wheel Type",
+                "specValue": "Alloy"
+              },
+              {
+                "specLabel": "Tyre Size",
+                "specValue": "215/60R16"
+              }
+            ]
+          },
+          {
+            "specType": "seating capacity",
+            "specTypeTitle": "Seating capacity",
+            "specList": [
+              {
+                "specLabel": "Seating Capacity",
+                "specValue": "5"
+              }
+            ]
+          },
+          {
+            "specType": "ev drivetrain",
+            "specTypeTitle": "EV Drivetrain",
+            "specList": [
+              {
+                "specLabel": "Battery Pack",
+                "specValue": "45 kWh High energy density Lithium ion battery pack"
+              },
+              {
+                "specLabel": "Motor Type",
+                "specValue": "Permanent Magnet Synchronous Motor"
+              },
+              {
+                "specLabel": "Electric Motor Power",
+                "specValue": "98 kW"
+              },
+              {
+                "specLabel": "Terrain Response Modes"
+              },
+              {
+                "specLabel": "Multi Drive Modes",
+                "specValue": "Yes"
+              },
+              {
+                "specLabel": "Charger Option",
+                "specValue": "7.2 kW AC Fast Charger Unit"
+              },
+              {
+                "specLabel": "Thermal Management",
+                "specValue": "Liquid cooled"
+              },
+              {
+                "specLabel": "Ingress protection for motor & battery pack",
+                "specValue": "IP 67"
+              },
+              {
+                "specLabel": "Acceleration",
+                "specValue": "0-100 km/h in 8.9s"
+              },
+              {
+                "specLabel": "Emission",
+                "specValue": "Zero Tailpipe Emission"
+              },
+              {
+                "specLabel": "Drivetrain",
+                "specValue": "Motor 98 kW and Torque 215 Nm"
+              }
+            ]
+          }
+        ],
+        "productFeatures": [
+          {
+            "featureType": "exterior",
+            "featureTypeTitle": "Exterior",
+            "featureList": [
+              {
+                "featureLabel": "Antenna",
+                "featureValue": "Shark Fin with GPS"
+              },
+              {
+                "featureLabel": "Bumper Finish",
+                "featureValue": "Body Coloured"
+              },
+              {
+                "featureLabel": "Contrast Roof",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Grill Design",
+                "featureValue": "EV Specific"
+              },
+              {
+                "featureLabel": "Headlamps"
+              },
+              {
+                "featureLabel": "Integrated Spoiler",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "LED DRLs",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "ORVM With Turn Indicators",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Sunroof",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Fog Lamps",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Wheel Design",
+                "featureValue": "Alloy Wheel"
+              }
+            ]
+          },
+          {
+            "featureType": "interior",
+            "featureTypeTitle": "Interior",
+            "featureList": [
+              {
+                "featureLabel": "Collapsible Grab Handles",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Interior Door Handle Finish",
+                "featureValue": "Chrome"
+              },
+              {
+                "featureLabel": "Instrument Cluster",
+                "featureValue": "26.03 cm HD Full Colour vision"
+              },
+              {
+                "featureLabel": "Rear Parcel Tray",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Seat Central Armrest",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Upholstery",
+                "featureValue": "Premium Leatherette Seat Upholstery"
+              }
+            ]
+          },
+          {
+            "featureType": "comfort and convenience",
+            "featureTypeTitle": "Comfort and Convenience",
+            "featureList": [
+              {
+                "featureLabel": "Adjustable Driver Seat",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Tilt Adjustable Steering",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Air Conditioner",
+                "featureValue": "FATC"
+              },
+              {
+                "featureLabel": "Air Purifier",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Electrically Foldable ORVMs",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Automatic Headlamps",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Central Locking",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Cruise Control",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Electric Tailgate Opening",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Electrically Adjustable ORVMs",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Follow Me Home Headlamps",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Adjustable Headrest",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Armrest",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Height Adjustable Front Seatbelts",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "One-Shot Power Window Driver Side",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Power Windows",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Push Button Start Stop With Smart Key",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rain Sensing Wipers",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear 60:40 Seat Split Fold"
+              },
+              {
+                "featureLabel": "Rear AC Vent",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Armrest",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Power Outlet",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Wiper Washer",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Steering Mounted Controls",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Ventilated Seats",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Wireless Charger",
+                "featureValue": "Yes"
+              }
+            ]
+          },
+          {
+            "featureType": "safety and security",
+            "featureTypeTitle": "Safety and Security",
+            "featureList": [
+              {
+                "featureLabel": "ABS With EBD",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "All Disc Brakes",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Brake Disc Wiping",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Airbags",
+                "featureValue": "6 airbags"
+              },
+              {
+                "featureLabel": "Electronic Parking Brake (EPB) With Auto Hold",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Electronic Stability program",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Global NCAP Rating",
+                "featureValue": "Based on GNCAP5 star rated platform"
+              },
+              {
+                "featureLabel": "Headlamp Leveling",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Hill Descent Control",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Hill Hold Control",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "ISOFIX",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Puncture Repair Kit",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Defogger",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Parking Sensors",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Reverse Parking Camera",
+                "featureValue": "HD Camera"
+              },
+              {
+                "featureLabel": "Seat Belt With Pretensioners & Load Limiters",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Speed Dependent Auto Door Locks",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Tyre Pressure Monitoring System (TPMS)",
+                "featureValue": "iTPMS"
+              }
+            ]
+          },
+          {
+            "featureType": "infotainment",
+            "featureTypeTitle": "Infotainment",
+            "featureList": [
+              {
+                "featureLabel": "Apple CarPlay™ And Andriod Auto™",
+                "featureValue": "Over Wifi"
+              },
+              {
+                "featureLabel": "Connected Car Technology",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Image And Video Play Back",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Infotainment System",
+                "featureValue": "31.24 cm Cinematic Touchscreen Infotainment by HARMAN"
+              },
+              {
+                "featureLabel": "Speakers",
+                "featureValue": "4"
+              },
+              {
+                "featureLabel": "Tweeters",
+                "featureValue": "4"
+              },
+              {
+                "featureLabel": "Speed Dependent Volume Control",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Voice Assist",
+                "featureValue": "Yes"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "variantId": "7-25553H23",
+        "variantLabel": "Empowered+ A 45, Electric",
+        "startingPrice": "₹17,29,000",
+        "productSpecifications": [
+          {
+            "specType": "price",
+            "specTypeTitle": "Price",
+            "specList": [
+              {
+                "specLabel": "Ex-showroom",
+                "specValue": "from ₹17,29,000<sup>*</sup>"
+              }
+            ]
+          },
+          {
+            "specType": "transmission",
+            "specTypeTitle": "Transmission",
+            "specList": [
+              {
+                "specLabel": "Transmission",
+                "specValue": "Automatic"
+              }
+            ]
+          },
+          {
+            "specType": "dimensions",
+            "specTypeTitle": "Dimensions",
+            "specList": [
+              {
+                "specLabel": "Length (mm) x Width (mm) x Height (mm)",
+                "specValue": "3995   1802   1625"
+              },
+              {
+                "specLabel": "Wheelbase (mm)",
+                "specValue": "2,498"
+              },
+              {
+                "specLabel": "Ground Clearance - Unladen (mm)",
+                "specValue": "190"
+              },
+              {
+                "specLabel": "Boot Space without Parcel Shelf (L)",
+                "specValue": "350"
+              },
+              {
+                "specLabel": "Min Turning Radius (m)",
+                "specValue": "5.3"
+              }
+            ]
+          },
+          {
+            "specType": "brakes",
+            "specTypeTitle": "Brakes",
+            "specList": [
+              {
+                "specLabel": "Brake Front",
+                "specValue": "Disc"
+              },
+              {
+                "specLabel": "Brake Rear",
+                "specValue": "Disc"
+              }
+            ]
+          },
+          {
+            "specType": "suspension",
+            "specTypeTitle": "Suspension",
+            "specList": [
+              {
+                "specLabel": "Suspension Front",
+                "specValue": "Independent MacPherson strut with coil spring"
+              },
+              {
+                "specLabel": "Suspension Rear",
+                "specValue": "Twist beam with dual path Strut"
+              }
+            ]
+          },
+          {
+            "specType": "wheels and tyre",
+            "specTypeTitle": "Wheels and Tyre",
+            "specList": [
+              {
+                "specLabel": "Wheel Type",
+                "specValue": "Alloy"
+              },
+              {
+                "specLabel": "Tyre Size",
+                "specValue": "215/60R16"
+              }
+            ]
+          },
+          {
+            "specType": "seating capacity",
+            "specTypeTitle": "Seating capacity",
+            "specList": [
+              {
+                "specLabel": "Seating Capacity",
+                "specValue": "5"
+              }
+            ]
+          },
+          {
+            "specType": "ev drivetrain",
+            "specTypeTitle": "EV Drivetrain",
+            "specList": [
+              {
+                "specLabel": "Battery Pack",
+                "specValue": "45 kWh High energy density Lithium ion battery pack"
+              },
+              {
+                "specLabel": "Motor Type",
+                "specValue": "Permanent Magnet Synchronous Motor"
+              },
+              {
+                "specLabel": "Electric Motor Power",
+                "specValue": "106kW"
+              },
+              {
+                "specLabel": "Terrain Response Modes",
+                "specValue": "No"
+              },
+              {
+                "specLabel": "Multi Drive Modes",
+                "specValue": "Yes"
+              },
+              {
+                "specLabel": "Charger Option",
+                "specValue": "7.2 kW AC Fast Charger Unit"
+              },
+              {
+                "specLabel": "Thermal Management",
+                "specValue": "Liquid cooled"
+              },
+              {
+                "specLabel": "Ingress protection for motor & battery pack",
+                "specValue": "IP 67"
+              },
+              {
+                "specLabel": "Acceleration",
+                "specValue": "0-100 km/h in 8.9s"
+              },
+              {
+                "specLabel": "Emission",
+                "specValue": "Zero Tailpipe Emission"
+              },
+              {
+                "specLabel": "Drivetrain",
+                "specValue": "Motor 106 kW and Torque 215 Nm"
+              }
+            ]
+          }
+        ],
+        "productFeatures": [
+          {
+            "featureType": "exterior",
+            "featureTypeTitle": "Exterior",
+            "featureList": [
+              {
+                "featureLabel": "Antenna",
+                "featureValue": "Shark Fin with GPS"
+              },
+              {
+                "featureLabel": "Bumper Finish",
+                "featureValue": "Body Coloured"
+              },
+              {
+                "featureLabel": "Contrast Roof",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Grill Design",
+                "featureValue": "EV Specific"
+              },
+              {
+                "featureLabel": "Headlamps",
+                "featureValue": "LED Projector headlamps"
+              },
+              {
+                "featureLabel": "Integrated Spoiler",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "LED DRLs",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "ORVM With Turn Indicators",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Sunroof",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Fog Lamps",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Wheel Design",
+                "featureValue": "Alloy Wheel"
+              }
+            ]
+          },
+          {
+            "featureType": "interior",
+            "featureTypeTitle": "Interior",
+            "featureList": [
+              {
+                "featureLabel": "Collapsible Grab Handles",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Interior Door Handle Finish",
+                "featureValue": "Chrome"
+              },
+              {
+                "featureLabel": "Instrument Cluster",
+                "featureValue": "26.03 cm HD Full Colour vision"
+              },
+              {
+                "featureLabel": "Rear Parcel Tray",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Seat Central Armrest",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Upholstery",
+                "featureValue": "Premium Leatherette Seat Upholstery"
+              }
+            ]
+          },
+          {
+            "featureType": "comfort and convenience",
+            "featureTypeTitle": "Comfort and Convenience",
+            "featureList": [
+              {
+                "featureLabel": "Adjustable Driver Seat",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Tilt Adjustable Steering",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Air Conditioner",
+                "featureValue": "FATC"
+              },
+              {
+                "featureLabel": "Air Purifier",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Electrically Foldable ORVMs",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Automatic Headlamps",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Central Locking",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Cruise Control",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Electric Tailgate Opening",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Electrically Adjustable ORVMs",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Follow Me Home Headlamps",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Adjustable Headrest",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Armrest",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Height Adjustable Front Seatbelts",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "One-Shot Power Window Driver Side",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Power Windows",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Push Button Start Stop With Smart Key",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rain Sensing Wipers",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear 60:40 Seat Split Fold",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear AC Vent",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Armrest",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Power Outlet",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Wiper Washer",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Steering Mounted Controls",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Ventilated Seats",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Wireless Charger",
+                "featureValue": "Yes"
+              }
+            ]
+          },
+          {
+            "featureType": "safety and security",
+            "featureTypeTitle": "Safety and Security",
+            "featureList": [
+              {
+                "featureLabel": "ABS With EBD",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "All Disc Brakes",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Brake Disc Wiping",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Airbags",
+                "featureValue": "6 airbags"
+              },
+              {
+                "featureLabel": "Electronic Parking Brake (EPB) With Auto Hold",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Electronic Stability program",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Global NCAP Rating",
+                "featureValue": "BNCAP 5 star"
+              },
+              {
+                "featureLabel": "Headlamp Leveling",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Hill Descent Control",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Hill Hold Control",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "ISOFIX",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Puncture Repair Kit",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Defogger",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Parking Sensors",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Reverse Parking Camera",
+                "featureValue": "HD Camera"
+              },
+              {
+                "featureLabel": "Seat Belt With Pretensioners & Load Limiters",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Speed Dependent Auto Door Locks",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Tyre Pressure Monitoring System (TPMS)",
+                "featureValue": "Yes"
+              }
+            ]
+          },
+          {
+            "featureType": "infotainment",
+            "featureTypeTitle": "Infotainment",
+            "featureList": [
+              {
+                "featureLabel": "Apple CarPlay™ And Andriod Auto™",
+                "featureValue": "Over Wifi"
+              },
+              {
+                "featureLabel": "Connected Car Technology",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Image And Video Play Back",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Infotainment System",
+                "featureValue": "31.24 cm Cinematic Touchscreen Infotainment by HARMAN"
+              },
+              {
+                "featureLabel": "Speakers",
+                "featureValue": "4"
+              },
+              {
+                "featureLabel": "Tweeters",
+                "featureValue": "4"
+              },
+              {
+                "featureLabel": "Speed Dependent Volume Control",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Voice Assist",
+                "featureValue": "Yes"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "variantId": "7-25553H2A",
+        "variantLabel": "Empowered+ A 45 RDK, Electric",
+        "startingPrice": "₹17,49,000",
+        "productSpecifications": [
+          {
+            "specType": "price",
+            "specTypeTitle": "Price",
+            "specList": [
+              {
+                "specLabel": "Ex-showroom",
+                "specValue": "from ₹17,49,000<sup>*</sup>"
+              }
+            ]
+          },
+          {
+            "specType": "transmission",
+            "specTypeTitle": "Transmission",
+            "specList": [
+              {
+                "specLabel": "Transmission",
+                "specValue": "Automatic"
+              }
+            ]
+          },
+          {
+            "specType": "dimensions",
+            "specTypeTitle": "Dimensions",
+            "specList": [
+              {
+                "specLabel": "Length (mm) x Width (mm) x Height (mm)",
+                "specValue": "3995   1802   1625"
+              },
+              {
+                "specLabel": "Wheelbase (mm)",
+                "specValue": "2,498"
+              },
+              {
+                "specLabel": "Ground Clearance - Unladen (mm)",
+                "specValue": "190"
+              },
+              {
+                "specLabel": "Boot Space without Parcel Shelf (L)",
+                "specValue": "350"
+              },
+              {
+                "specLabel": "Min Turning Radius (m)",
+                "specValue": "5.3"
+              }
+            ]
+          },
+          {
+            "specType": "brakes",
+            "specTypeTitle": "Brakes",
+            "specList": [
+              {
+                "specLabel": "Brake Front",
+                "specValue": "Disc"
+              },
+              {
+                "specLabel": "Brake Rear",
+                "specValue": "Disc"
+              }
+            ]
+          },
+          {
+            "specType": "suspension",
+            "specTypeTitle": "Suspension",
+            "specList": [
+              {
+                "specLabel": "Suspension Front",
+                "specValue": "Independent MacPherson strut with coil spring"
+              },
+              {
+                "specLabel": "Suspension Rear",
+                "specValue": "Twist beam with dual path Strut"
+              }
+            ]
+          },
+          {
+            "specType": "wheels and tyre",
+            "specTypeTitle": "Wheels and Tyre",
+            "specList": [
+              {
+                "specLabel": "Wheel Type",
+                "specValue": "Alloy"
+              },
+              {
+                "specLabel": "Tyre Size",
+                "specValue": "215/60R16"
+              }
+            ]
+          },
+          {
+            "specType": "seating capacity",
+            "specTypeTitle": "Seating capacity",
+            "specList": [
+              {
+                "specLabel": "Seating Capacity",
+                "specValue": "5"
+              }
+            ]
+          },
+          {
+            "specType": "ev drivetrain",
+            "specTypeTitle": "EV Drivetrain",
+            "specList": [
+              {
+                "specLabel": "Battery Pack",
+                "specValue": "45 kWh High energy density Lithium ion battery pack"
+              },
+              {
+                "specLabel": "Motor Type",
+                "specValue": "Permanent Magnet Synchronous Motor"
+              },
+              {
+                "specLabel": "Electric Motor Power",
+                "specValue": "106kW"
+              },
+              {
+                "specLabel": "Terrain Response Modes",
+                "specValue": "No"
+              },
+              {
+                "specLabel": "Multi Drive Modes",
+                "specValue": "Yes"
+              },
+              {
+                "specLabel": "Charger Option",
+                "specValue": "7.2 kW AC Fast Charger Unit"
+              },
+              {
+                "specLabel": "Thermal Management",
+                "specValue": "Liquid cooled"
+              },
+              {
+                "specLabel": "Ingress protection for motor & battery pack",
+                "specValue": "IP 67"
+              },
+              {
+                "specLabel": "Acceleration",
+                "specValue": "0-100 km/h in 8.9s"
+              },
+              {
+                "specLabel": "Emission",
+                "specValue": "Zero Tailpipe Emission"
+              },
+              {
+                "specLabel": "Drivetrain",
+                "specValue": "Motor 106 kW and Torque 215 Nm"
+              }
+            ]
+          }
+        ],
+        "productFeatures": [
+          {
+            "featureType": "exterior",
+            "featureTypeTitle": "Exterior",
+            "featureList": [
+              {
+                "featureLabel": "Antenna",
+                "featureValue": "Shark Fin with GPS"
+              },
+              {
+                "featureLabel": "Bumper Finish",
+                "featureValue": "Body Coloured"
+              },
+              {
+                "featureLabel": "Contrast Roof",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Grill Design",
+                "featureValue": "EV Specific"
+              },
+              {
+                "featureLabel": "Headlamps",
+                "featureValue": "LED Projector headlamps"
+              },
+              {
+                "featureLabel": "Integrated Spoiler",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "LED DRLs",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "ORVM With Turn Indicators",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Sunroof",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Fog Lamps",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Wheel Design",
+                "featureValue": "Alloy Wheel"
+              }
+            ]
+          },
+          {
+            "featureType": "interior",
+            "featureTypeTitle": "Interior",
+            "featureList": [
+              {
+                "featureLabel": "Collapsible Grab Handles",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Interior Door Handle Finish",
+                "featureValue": "Chrome"
+              },
+              {
+                "featureLabel": "Instrument Cluster",
+                "featureValue": "26.03 cm HD Full Colour vision"
+              },
+              {
+                "featureLabel": "Rear Parcel Tray",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Seat Central Armrest",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Upholstery",
+                "featureValue": "Premium Leatherette Seat Upholstery"
+              }
+            ]
+          },
+          {
+            "featureType": "comfort and convenience",
+            "featureTypeTitle": "Comfort and Convenience",
+            "featureList": [
+              {
+                "featureLabel": "Adjustable Driver Seat",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Tilt Adjustable Steering",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Air Conditioner",
+                "featureValue": "FATC"
+              },
+              {
+                "featureLabel": "Air Purifier",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Electrically Foldable ORVMs",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Automatic Headlamps",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Central Locking",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Cruise Control",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Electric Tailgate Opening",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Electrically Adjustable ORVMs",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Follow Me Home Headlamps",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Adjustable Headrest",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Armrest",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Height Adjustable Front Seatbelts",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "One-Shot Power Window Driver Side",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Power Windows",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Push Button Start Stop With Smart Key",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rain Sensing Wipers",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear 60:40 Seat Split Fold",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear AC Vent",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Armrest",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Power Outlet",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Wiper Washer",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Steering Mounted Controls",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Ventilated Seats",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Wireless Charger",
+                "featureValue": "Yes"
+              }
+            ]
+          },
+          {
+            "featureType": "safety and security",
+            "featureTypeTitle": "Safety and Security",
+            "featureList": [
+              {
+                "featureLabel": "ABS With EBD",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "All Disc Brakes",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Brake Disc Wiping",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Airbags",
+                "featureValue": "6 airbags"
+              },
+              {
+                "featureLabel": "Electronic Parking Brake (EPB) With Auto Hold",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Electronic Stability program",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Global NCAP Rating",
+                "featureValue": "BNCAP 5 star"
+              },
+              {
+                "featureLabel": "Headlamp Leveling",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Hill Descent Control",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Hill Hold Control",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "ISOFIX",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Puncture Repair Kit",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Defogger",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Parking Sensors",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Reverse Parking Camera",
+                "featureValue": "HD Camera"
+              },
+              {
+                "featureLabel": "Seat Belt With Pretensioners & Load Limiters",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Speed Dependent Auto Door Locks",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Tyre Pressure Monitoring System (TPMS)",
+                "featureValue": "Yes"
+              }
+            ]
+          },
+          {
+            "featureType": "infotainment",
+            "featureTypeTitle": "Infotainment",
+            "featureList": [
+              {
+                "featureLabel": "Apple CarPlay™ And Andriod Auto™",
+                "featureValue": "Over Wifi"
+              },
+              {
+                "featureLabel": "Connected Car Technology",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Image And Video Play Back",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Infotainment System",
+                "featureValue": "31.24 cm Cinematic Touchscreen Infotainment by HARMAN"
+              },
+              {
+                "featureLabel": "Speakers",
+                "featureValue": "4"
+              },
+              {
+                "featureLabel": "Tweeters",
+                "featureValue": "4"
+              },
+              {
+                "featureLabel": "Speed Dependent Volume Control",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Voice Assist",
+                "featureValue": "Yes"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "variantId": "7-25553H2C",
+        "variantLabel": "Empowered+ A 45 DK, Electric",
+        "startingPrice": "₹17,49,000",
+        "productSpecifications": [
+          {
+            "specType": "price",
+            "specTypeTitle": "Price",
+            "specList": [
+              {
+                "specLabel": "Ex-showroom",
+                "specValue": "from ₹17,49,000<sup>*</sup>"
+              }
+            ]
+          },
+          {
+            "specType": "transmission",
+            "specTypeTitle": "Transmission",
+            "specList": [
+              {
+                "specLabel": "Transmission",
+                "specValue": "Automatic"
+              }
+            ]
+          },
+          {
+            "specType": "dimensions",
+            "specTypeTitle": "Dimensions",
+            "specList": [
+              {
+                "specLabel": "Length (mm) x Width (mm) x Height (mm)",
+                "specValue": "3995   1802   1625"
+              },
+              {
+                "specLabel": "Wheelbase (mm)",
+                "specValue": "2,498"
+              },
+              {
+                "specLabel": "Ground Clearance - Unladen (mm)",
+                "specValue": "190"
+              },
+              {
+                "specLabel": "Boot Space without Parcel Shelf (L)",
+                "specValue": "350"
+              },
+              {
+                "specLabel": "Min Turning Radius (m)",
+                "specValue": "5.3"
+              }
+            ]
+          },
+          {
+            "specType": "brakes",
+            "specTypeTitle": "Brakes",
+            "specList": [
+              {
+                "specLabel": "Brake Front",
+                "specValue": "Disc"
+              },
+              {
+                "specLabel": "Brake Rear",
+                "specValue": "Disc"
+              }
+            ]
+          },
+          {
+            "specType": "suspension",
+            "specTypeTitle": "Suspension",
+            "specList": [
+              {
+                "specLabel": "Suspension Front",
+                "specValue": "Independent MacPherson strut with coil spring"
+              },
+              {
+                "specLabel": "Suspension Rear",
+                "specValue": "Twist beam with dual path Strut"
+              }
+            ]
+          },
+          {
+            "specType": "wheels and tyre",
+            "specTypeTitle": "Wheels and Tyre",
+            "specList": [
+              {
+                "specLabel": "Wheel Type",
+                "specValue": "Alloy"
+              },
+              {
+                "specLabel": "Tyre Size",
+                "specValue": "215/60R16"
+              }
+            ]
+          },
+          {
+            "specType": "seating capacity",
+            "specTypeTitle": "Seating capacity",
+            "specList": [
+              {
+                "specLabel": "Seating Capacity",
+                "specValue": "5"
+              }
+            ]
+          },
+          {
+            "specType": "ev drivetrain",
+            "specTypeTitle": "EV Drivetrain",
+            "specList": [
+              {
+                "specLabel": "Battery Pack",
+                "specValue": "45 kWh High energy density Lithium ion battery pack"
+              },
+              {
+                "specLabel": "Motor Type",
+                "specValue": "Permanent Magnet Synchronous Motor"
+              },
+              {
+                "specLabel": "Electric Motor Power",
+                "specValue": "106kW"
+              },
+              {
+                "specLabel": "Terrain Response Modes",
+                "specValue": "No"
+              },
+              {
+                "specLabel": "Multi Drive Modes",
+                "specValue": "Yes"
+              },
+              {
+                "specLabel": "Charger Option",
+                "specValue": "7.2 kW AC Fast Charger Unit"
+              },
+              {
+                "specLabel": "Thermal Management",
+                "specValue": "Liquid cooled"
+              },
+              {
+                "specLabel": "Ingress protection for motor & battery pack",
+                "specValue": "IP 67"
+              },
+              {
+                "specLabel": "Acceleration",
+                "specValue": "0-100 km/h in 8.9s"
+              },
+              {
+                "specLabel": "Emission",
+                "specValue": "Zero Tailpipe Emission"
+              },
+              {
+                "specLabel": "Drivetrain",
+                "specValue": "Motor 106 kW and Torque 215 Nm"
+              }
+            ]
+          }
+        ],
+        "productFeatures": [
+          {
+            "featureType": "exterior",
+            "featureTypeTitle": "Exterior",
+            "featureList": [
+              {
+                "featureLabel": "Antenna",
+                "featureValue": "Shark Fin with GPS"
+              },
+              {
+                "featureLabel": "Bumper Finish",
+                "featureValue": "Body Coloured"
+              },
+              {
+                "featureLabel": "Contrast Roof",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Grill Design",
+                "featureValue": "EV Specific"
+              },
+              {
+                "featureLabel": "Headlamps",
+                "featureValue": "LED Projector headlamps"
+              },
+              {
+                "featureLabel": "Integrated Spoiler",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "LED DRLs",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "ORVM With Turn Indicators",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Sunroof",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Fog Lamps",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Wheel Design",
+                "featureValue": "Alloy Wheel"
+              }
+            ]
+          },
+          {
+            "featureType": "interior",
+            "featureTypeTitle": "Interior",
+            "featureList": [
+              {
+                "featureLabel": "Collapsible Grab Handles",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Interior Door Handle Finish",
+                "featureValue": "Chrome"
+              },
+              {
+                "featureLabel": "Instrument Cluster",
+                "featureValue": "26.03 cm HD Full Colour vision"
+              },
+              {
+                "featureLabel": "Rear Parcel Tray",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Seat Central Armrest",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Upholstery",
+                "featureValue": "Premium Leatherette Seat Upholstery"
+              }
+            ]
+          },
+          {
+            "featureType": "comfort and convenience",
+            "featureTypeTitle": "Comfort and Convenience",
+            "featureList": [
+              {
+                "featureLabel": "Adjustable Driver Seat",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Tilt Adjustable Steering",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Air Conditioner",
+                "featureValue": "FATC"
+              },
+              {
+                "featureLabel": "Air Purifier",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Electrically Foldable ORVMs",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Automatic Headlamps",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Central Locking",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Cruise Control",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Electric Tailgate Opening",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Electrically Adjustable ORVMs",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Follow Me Home Headlamps",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Adjustable Headrest",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Front Armrest",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Height Adjustable Front Seatbelts",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "One-Shot Power Window Driver Side",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Power Windows",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Push Button Start Stop With Smart Key",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rain Sensing Wipers",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear 60:40 Seat Split Fold",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear AC Vent",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Armrest",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Power Outlet",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Wiper Washer",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Steering Mounted Controls",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Ventilated Seats",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Wireless Charger",
+                "featureValue": "Yes"
+              }
+            ]
+          },
+          {
+            "featureType": "safety and security",
+            "featureTypeTitle": "Safety and Security",
+            "featureList": [
+              {
+                "featureLabel": "ABS With EBD",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "All Disc Brakes",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Brake Disc Wiping",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Airbags",
+                "featureValue": "6 airbags"
+              },
+              {
+                "featureLabel": "Electronic Parking Brake (EPB) With Auto Hold",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Electronic Stability program",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Global NCAP Rating",
+                "featureValue": "BNCAP 5 star"
+              },
+              {
+                "featureLabel": "Headlamp Leveling",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Hill Descent Control",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Hill Hold Control",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "ISOFIX",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Puncture Repair Kit",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Defogger",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Rear Parking Sensors",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Reverse Parking Camera",
+                "featureValue": "HD Camera"
+              },
+              {
+                "featureLabel": "Seat Belt With Pretensioners & Load Limiters",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Speed Dependent Auto Door Locks",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Tyre Pressure Monitoring System (TPMS)",
+                "featureValue": "Yes"
+              }
+            ]
+          },
+          {
+            "featureType": "infotainment",
+            "featureTypeTitle": "Infotainment",
+            "featureList": [
+              {
+                "featureLabel": "Apple CarPlay™ And Andriod Auto™",
+                "featureValue": "Over Wifi"
+              },
+              {
+                "featureLabel": "Connected Car Technology",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Image And Video Play Back",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Infotainment System",
+                "featureValue": "31.24 cm Cinematic Touchscreen Infotainment by HARMAN"
+              },
+              {
+                "featureLabel": "Speakers",
+                "featureValue": "4"
+              },
+              {
+                "featureLabel": "Tweeters",
+                "featureValue": "4"
+              },
+              {
+                "featureLabel": "Speed Dependent Volume Control",
+                "featureValue": "Yes"
+              },
+              {
+                "featureLabel": "Voice Assist",
+                "featureValue": "Yes"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

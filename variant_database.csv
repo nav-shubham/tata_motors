@@ -1,0 +1,376 @@
+Model Name,Variant Name,Variant Code,Fuel Type,Transmission,Price,Engine Type,Displacement (cc),Max Power (PS),Max Torque (Nm),Battery Capacity,Claimed Range,Real Range,Motor Power,Motor Torque,Length,Width,Height,Wheelbase,Ground Clearance,Boot Space,Seating Capacity,Fuel Tank Capacity
+Tata Tiago,"Smart, Petrol",5-2EQ77WT9,Petrol,5 Speed MT,469990,1.2L Revotron Engine,1199,86 @ 6000 rpm,113 @ 3300 rpm,,,,,,3813 mm,1684 mm,1535 mm,2400 mm,170 mm,,5,35L litres
+Tata Tiago,"Pure, Petrol",5-2EQ77WTC,Petrol,5 Speed MT,549990,1.2L Revotron Engine,1199,86 @ 6000 rpm,113 @ 3300 rpm,,,,,,3813 mm,1684 mm,1535 mm,2400 mm,170 mm,,5,35L litres
+Tata Tiago,"Smart CNG, Bi-fuel CNG",5-2EQ77WTK,CNG,5 Speed MT,579990,1.2L Revotron Engine,1199,"Petrol: 86 @ 6000 rpm, CNG: 75.5 @ 6000 rpm","Petrol: 113 @ 3300 rpm, CNG: 96.5 @ 3500 rpm",,,,,,3813 mm,1684 mm,1535 mm,2400 mm,168 mm,,5,"Petrol: 35L, CNG: 60L (Water Capacity) litres"
+Tata Tiago,"Pure AMT, Petrol",5-2EQ77WTH,Petrol,5 Speed AMT,599990,1.2L Revotron Engine,1199,86 @ 6000 rpm,113 @ 3300 rpm,,,,,,3813 mm,1684 mm,1535 mm,2400 mm,170 mm,,5,35L litres
+Tata Tiago,"Pure+, Petrol",5-2EQ77WTB,Petrol,5 Speed MT,599990,1.2L Revotron Engine,1199,86 @ 6000 rpm,113 @ 3300 rpm,,,,,,3813 mm,1684 mm,1535 mm,2400 mm,170 mm,,5,35L litres
+Tata Tiago,"Pure CNG, Bi-fuel CNG",5-2EQ77WTN,CNG,5 Speed MT,649990,1.2L Revotron Engine,1199,"Petrol: 86 @ 6000 rpm, CNG: 75.5 @ 6000 rpm","Petrol: 113 @ 3300 rpm, CNG: 96.5 @ 3500 rpm",,,,,,3813 mm,1684 mm,1535 mm,2400 mm,168 mm,,5,"Petrol: 35L, CNG: 60L (Water Capacity) litres"
+Tata Tiago,"Pure+ AMT, Petrol",5-2EQ77WTG,Petrol,5 Speed AMT,654990,1.2L Revotron Engine,1199,86 @ 6000 rpm,113 @ 3300 rpm,,,,,,3813 mm,1684 mm,1535 mm,2400 mm,170 mm,,5,35L litres
+Tata Tiago,"Creative, Petrol",5-2EQ77WTE,Petrol,5 Speed MT,699990,1.2L Revotron Engine,1199,86 @ 6000 rpm,113 @ 3300 rpm,,,,,,3813 mm,1684 mm,1535 mm,2400 mm,170 mm,,5,35L litres
+Tata Tiago,"Pure+ CNG, Bi-fuel CNG",5-2EQ77WTM,CNG,5 Speed MT,699990,1.2L Revotron Engine,1199,"Petrol: 86 @ 6000 rpm, CNG: 75.5 @ 6000 rpm","Petrol: 113 @ 3300 rpm, CNG: 96.5 @ 3500 rpm",,,,,,3813 mm,1684 mm,1535 mm,2400 mm,168 mm,,5,"Petrol: 35L, CNG: 60L (Water Capacity) litres"
+Tata Tiago,"Pure CNG AMT, Bi-fuel CNG",5-2EQ77WTR,CNG,5 Speed AMT,704990,1.2L Revotron Engine,1199,"Petrol: 86 @ 6000 rpm, CNG: 75.5 @ 6000 rpm","Petrol: 113 @ 3300 rpm, CNG: 96.5 @ 3500 rpm",,,,,,3813 mm,1684 mm,1535 mm,2400 mm,168 mm,,5,"Petrol: 35L, CNG: 60L (Water Capacity) litres"
+Tata Tiago,"Creative+, Petrol",5-2EQ77WTD,Petrol,5 Speed MT,729990,1.2L Revotron Engine,1199,86 @ 6000 rpm,113 @ 3300 rpm,,,,,,3813 mm,1684 mm,1535 mm,2400 mm,170 mm,,5,35L litres
+Tata Tiago,"Creative AMT, Petrol",5-2EQ77WTJ,Petrol,5 Speed AMT,754990,1.2L Revotron Engine,1199,86 @ 6000 rpm,113 @ 3300 rpm,,,,,,3813 mm,1684 mm,1535 mm,2400 mm,170 mm,,5,35L litres
+Tata Tiago,"Pure+ CNG AMT, Bi-fuel CNG",5-2EQ77WTQ,CNG,5 Speed AMT,754990,1.2L Revotron Engine,1199,"Petrol: 86 @ 6000 rpm, CNG: 75.5 @ 6000 rpm","Petrol: 113 @ 3300 rpm, CNG: 96.5 @ 3500 rpm",,,,,,3813 mm,1684 mm,1535 mm,2400 mm,168 mm,,5,"Petrol: 35L, CNG: 60L (Water Capacity) litres"
+Tata Tiago,"Creative+ AMT, Petrol",5-2EQ77WTI,Petrol,5 Speed AMT,784990,1.2L Revotron Engine,1199,86 @ 6000 rpm,113 @ 3300 rpm,,,,,,3813 mm,1684 mm,1535 mm,2400 mm,170 mm,,5,35L litres
+Tata Tiago,"Creative CNG, Bi-fuel CNG",5-2EQ77WTO,CNG,5 Speed MT,799990,1.2L Revotron Engine,1199,"Petrol: 86 @ 6000 rpm, CNG: 75.5 @ 6000 rpm","Petrol: 113 @ 3300 rpm, CNG: 96.5 @ 3500 rpm",,,,,,3813 mm,1684 mm,1535 mm,2400 mm,168 mm,,5,"Petrol: 35L, CNG: 60L (Water Capacity) litres"
+Tata Tiago,"Creative CNG AMT, Bi-fuel CNG",5-2EQ77WTS,CNG,5 Speed AMT,854990,1.2L Revotron Engine,1199,"Petrol: 86 @ 6000 rpm, CNG: 75.5 @ 6000 rpm","Petrol: 113 @ 3300 rpm, CNG: 96.5 @ 3500 rpm",,,,,,3813 mm,1684 mm,1535 mm,2400 mm,168 mm,,5,"Petrol: 35L, CNG: 60L (Water Capacity) litres"
+Tata Tiago.ev,"Smart 19, Electric",7-25SD0BZR,Electric,Automatic,699000,,,,,19.2 kWh,250 km,187 km,45,110,3825 mm,1654 mm,1562 mm,"2,400 mm",165 mm,240 litres,5,
+Tata Tiago.ev,"Pure+ 19, Electric",7-25SD0BZS,Electric,Automatic,849000,,,,,19.2 kWh,250 km,187 km,45,110,3825 mm,1654 mm,1562 mm,"2,400 mm",165 mm,240 litres,5,
+Tata Tiago.ev,"Pure+ 24, Electric",7-25SD0BZT,Electric,Automatic,949000,,,,,24.0 kWh,315 km,236 km,55,114,3825 mm,1654 mm,1562 mm,"2,400 mm",165 mm,240 litres,5,
+Tata Tiago.ev,"Creative+ 24, Electric",7-25SD0BZU,Electric,Automatic,999000,,,,,24.0 kWh,315 km,236 km,55,114,3825 mm,1654 mm,1562 mm,"2,400 mm",165 mm,240 litres,5,
+Tata Tiago.ev,"IB XT LR, Electric",5-239DDR9N,Electric,Automatic,1014000,,,,,24.0 kWh,315 km,236 km,48,114,3781 mm,1677 mm,1536 mm,"2,400 mm",165 mm,240 litres,5,
+Tata Tiago.ev,"IB XZ+ Tech LR, Electric",5-234FND8T,Electric,Automatic,1114000,,,,,24.0 kWh,315 km,236 km,48,114,3781 mm,1677 mm,1536 mm,"2,400 mm",165 mm,240 litres,5,
+Tata Tigor,"XM, Petrol",5-296G0U1N,Petrol,5 Speed MT,554990,1.2L Revotron Engine,1199,86 @ 6000 rpm,113 @ 3300 rpm,,,,,,3995 mm,1677 mm,1532 mm,2450 mm,170 mm,,5,35L litres
+Tata Tigor,"XT, Petrol",5-296G0U1O,Petrol,5 Speed MT,627990,1.2L Revotron Engine,1199,86 @ 6000 rpm,113 @ 3300 rpm,,,,,,3995 mm,1677 mm,1532 mm,2450 mm,170 mm,,5,35L litres
+Tata Tigor,"XTA, Petrol",5-296G0U1P,Petrol,5 Speed AMT,679990,1.2L Revotron Engine,1199,86 @ 6000 rpm,113 @ 3300 rpm,,,,,,3995 mm,1677 mm,1532 mm,2450 mm,170 mm,,5,35L litres
+Tata Tigor,"XZ, Petrol",5-296G0U1Q,Petrol,5 Speed MT,682990,1.2L Revotron Engine,1199,86 @ 6000 rpm,113 @ 3300 rpm,,,,,,3995 mm,1677 mm,1532 mm,2450 mm,170 mm,,5,35L litres
+Tata Tigor,"XT CNG, Bi-fuel CNG",5-296G0U1V,CNG,5 Speed MT,721990,1.2L Revotron Engine,1199,"Petrol: 86 @ 6000 rpm, CNG: 75.5 @ 6000 rpm","Petrol: 113 @ 3300 rpm, CNG: 96.5 @ 3500 rpm",,,,,,3995 mm,1677 mm,1532 mm,2450 mm,165 mm,,5,"Petrol: 35L, CNG: 70L (Water Capacity) litres"
+Tata Tigor,"XZA, Petrol",5-296G0U1R,Petrol,5 Speed AMT,734990,1.2L Revotron Engine,1199,86 @ 6000 rpm,113 @ 3300 rpm,,,,,,3995 mm,1677 mm,1532 mm,2450 mm,170 mm,,5,35L litres
+Tata Tigor,"XZ+, Petrol",5-296G0U1S,Petrol,5 Speed MT,737990,1.2L Revotron Engine,1199,86 @ 6000 rpm,113 @ 3300 rpm,,,,,,3995 mm,1677 mm,1532 mm,2450 mm,170 mm,,5,35L litres
+Tata Tigor,"XZ CNG, Bi-fuel CNG",5-296G0U1W,CNG,5 Speed MT,776990,1.2L Revotron Engine,1199,"Petrol: 86 @ 6000 rpm, CNG: 75.5 @ 6000 rpm","Petrol: 113 @ 3300 rpm, CNG: 96.5 @ 3500 rpm",,,,,,3995 mm,1677 mm,1532 mm,2450 mm,165 mm,,5,"Petrol: 35L, CNG: 70L (Water Capacity) litres"
+Tata Tigor,"XZ+LUX, Petrol",5-296G0U1U,Petrol,5 Speed MT,782990,1.2L Revotron Engine,1199,86 @ 6000 rpm,113 @ 3300 rpm,,,,,,3995 mm,1677 mm,1532 mm,2450 mm,170 mm,,5,35L litres
+Tata Tigor,"XZA+, Petrol",5-296G0U1T,Petrol,5 Speed AMT,789990,1.2L Revotron Engine,1199,86 @ 6000 rpm,113 @ 3300 rpm,,,,,,3995 mm,1677 mm,1532 mm,2450 mm,170 mm,,5,35L litres
+Tata Tigor,"XZA CNG, Bi-fuel CNG",5-296G0U1Y,CNG,5 Speed AMT,828990,1.2L Revotron Engine,1199,"Petrol: 86 @ 6000 rpm, CNG: 75.5 @ 6000 rpm","Petrol: 113 @ 3300 rpm, CNG: 96.5 @ 3500 rpm",,,,,,3995 mm,1677 mm,1532 mm,2450 mm,165 mm,,5,"Petrol: 35L, CNG: 70L (Water Capacity) litres"
+Tata Tigor,"XZ+ CNG, Bi-fuel CNG",5-296G0U1Z,CNG,5 Speed MT,831990,1.2L Revotron Engine,1199,"Petrol: 86 @ 6000 rpm, CNG: 75.5 @ 6000 rpm","Petrol: 113 @ 3300 rpm, CNG: 96.5 @ 3500 rpm",,,,,,3995 mm,1677 mm,1532 mm,2450 mm,165 mm,,5,"Petrol: 35L, CNG: 70L (Water Capacity) litres"
+Tata Tigor,"XZ+LUX CNG, Bi-fuel CNG",5-296G0U21,CNG,5 Speed MT,876990,1.2L Revotron Engine,1199,"Petrol: 86 @ 6000 rpm, CNG: 75.5 @ 6000 rpm","Petrol: 113 @ 3300 rpm, CNG: 96.5 @ 3500 rpm",,,,,,3995 mm,1677 mm,1532 mm,2450 mm,165 mm,,5,"Petrol: 35L, CNG: 70L (Water Capacity) litres"
+Tata Tigor,"XZA+ CNG, Bi-fuel CNG",5-296G0U20,CNG,5 Speed AMT,883990,1.2L Revotron Engine,1199,"Petrol: 86 @ 6000 rpm, CNG: 75.5 @ 6000 rpm","Petrol: 113 @ 3300 rpm, CNG: 96.5 @ 3500 rpm",,,,,,3995 mm,1677 mm,1532 mm,2450 mm,165 mm,,5,"Petrol: 35L, CNG: 70L (Water Capacity) litres"
+Tata Tigor.ev,"XE, Electric",5-C39Z0-1,Electric,Automatic,1249000,,,,,26.0 kWh,315 km,236 km,55,170,3993 mm,1677 mm,1532 mm,"2,450 mm",172 mm,316 litres,5,
+Tata Tigor.ev,"XT, Electric",5-23BJY29L,Electric,Automatic,1299000,,,,,26.0 kWh,315 km,236 km,55,170,3993 mm,1677 mm,1532 mm,"2,450 mm",172 mm,316 litres,5,
+Tata Tigor.ev,"XZ+, Electric",5-1XQTP6BF,Electric,Automatic,1349000,,,,,26.0 kWh,315 km,236 km,55,170,3993 mm,1677 mm,1532 mm,"2,450 mm",172 mm,316 litres,5,
+Tata Tigor.ev,"XZ+ Lux, Electric",5-23BJY2A0,Electric,Automatic,1375000,,,,,26.0 kWh,315 km,236 km,55,170,3993 mm,1677 mm,1532 mm,"2,450 mm",172 mm,316 litres,5,
+Tata Altroz,"SMART PMT, PETROL",5-2A0KZLHP,Petrol,5 Speed MT,629990,1.2 L Revotron Engine,1199,88@ 6000,115  @ 3250,,,,,,3990 mm,1755 mm,1523 mm,2501 mm,165 mm,,5,37 litres
+Tata Altroz,"PURE PMT, PETROL",5-2A0KZLGQ,Petrol,5 Speed MT,709990,1.2 L Revotron Engine,1199,88@ 6000,115  @ 3250,,,,,,3990 mm,1755 mm,1523 mm,2501 mm,165 mm,,5,37 litres
+Tata Altroz,"SMART CNG MT, Bi-fuel CNG",5-2A0KZLH8,CNG,5 Speed MT,729990,1.2 L iCNG engine,1199,73.5@ 6000,103@3500,,,,,,3990 mm,1755 mm,1523 mm,2501 mm,165 mm,,5,"Petrol : 37L, CNG : 60L(water capacity) litres"
+Tata Altroz,"PURE S PMT, PETROL",5-2A0KZLHJ,Petrol,5 Speed MT,741990,1.2 L Revotron Engine,1199,88@ 6000,115  @ 3250,,,,,,3990 mm,1755 mm,1523 mm,2501 mm,165 mm,,5,37 litres
+Tata Altroz,"PURE PAMT, PETROL",5-2A0KZLH2,Petrol,5 Speed AMT,764990,1.2 L Revotron Engine,1199,88@ 6000,115  @ 3250,,,,,,3990 mm,1755 mm,1523 mm,2501 mm,165 mm,,5,37 litres
+Tata Altroz,"PURE S PAMT, PETROL",5-2A0KZLHZ,Petrol,5 Speed AMT,796990,1.2 L Revotron Engine,1199,88@ 6000,115  @ 3250,,,,,,3990 mm,1755 mm,1523 mm,2501 mm,165 mm,,5,37 litres
+Tata Altroz,"CREATIVE PMT, PETROL",5-2A0KZLF5,Petrol,5 Speed MT,801990,1.2 L Revotron Engine,1199,88@ 6000,115  @ 3250,,,,,,3990 mm,1755 mm,1523 mm,2501 mm,165 mm,,5,37 litres
+Tata Altroz,"PURE CNG MT, Bi-fuel CNG",5-2A0KZLHC,CNG,5 Speed MT,809990,1.2 L iCNG engine,1199,73.5@ 6000,103@3500,,,,,,3990 mm,1755 mm,1523 mm,2501 mm,165 mm,,5,"Petrol : 37L, CNG : 60L(water capacity) litres"
+Tata Altroz,"PURE DMT, DIESEL",5-2A0KZLGW,Diesel,5 Speed MT,814990,1.5 L Turbocharged Revotorq Engine,1497,90@4000,200@1250-3000,,,,,,3990 mm,1755 mm,1523 mm,2501 mm,165 mm,,5,37 litres
+Tata Altroz,"CREATIVE S PMT, PETROL",5-2A0KZLFM,Petrol,5 Speed MT,836990,1.2 L Revotron Engine,1199,88@ 6000,115  @ 3250,,,,,,3990 mm,1755 mm,1523 mm,2501 mm,165 mm,,5,37 litres
+Tata Altroz,"PURE S CNG MT, Bi-fuel CNG",5-2A0KZLHT,CNG,5 Speed MT,841990,1.2 L iCNG engine,1199,73.5@ 6000,103@3500,,,,,,3990 mm,1755 mm,1523 mm,2501 mm,165 mm,,5,"Petrol : 37L, CNG : 60L(water capacity) litres"
+Tata Altroz,"CREATIVE PAMT, PETROL",5-2A0KZLFB,Petrol,5 Speed AMT,856990,1.2 L Revotron Engine,1199,88@ 6000,115  @ 3250,,,,,,3990 mm,1755 mm,1523 mm,2501 mm,165 mm,,5,37 litres
+Tata Altroz,"PURE CNG AMT, Bi-fuel CNG",5-2D77BCLX,CNG,5 Speed AMT,869990,1.2 L iCNG engine,1199,73.5@ 6000,103@3500,,,,,,3990 mm,1755 mm,1523 mm,2501 mm,165 mm,,5,"Petrol : 37L, CNG : 60L(water capacity) litres"
+Tata Altroz,"CREATIVE S PAMT, PETROL",5-2A0KZLG8,Petrol,5 Speed AMT,891990,1.2 L Revotron Engine,1199,88@ 6000,115  @ 3250,,,,,,3990 mm,1755 mm,1523 mm,2501 mm,165 mm,,5,37 litres
+Tata Altroz,"PURE S CNG AMT, Bi-fuel CNG",5-2D77BCLY,CNG,5 Speed AMT,899990,1.2 L iCNG engine,1199,73.5@ 6000,103@3500,,,,,,3990 mm,1755 mm,1523 mm,2501 mm,165 mm,,5,"Petrol : 37L, CNG : 60L(water capacity) litres"
+Tata Altroz,"CREATIVE CNG MT, Bi-fuel CNG",5-2A0KZLFH,CNG,5 Speed MT,901990,1.2 L iCNG engine,1199,73.5@ 6000,103@3500,,,,,,3990 mm,1755 mm,1523 mm,2501 mm,165 mm,,5,"Petrol : 37L, CNG : 60L(water capacity) litres"
+Tata Altroz,"ACCOMPLISHED S PMT, PETROL",5-2A0KZLE0,Petrol,5 Speed MT,921990,1.2 L Revotron Engine,1199,88@ 6000,115  @ 3250,,,,,,3990 mm,1755 mm,1523 mm,2501 mm,165 mm,,5,37 litres
+Tata Altroz,"CREATIVE S CNG MT, Bi-fuel CNG",5-2A0KZLGE,CNG,5 Speed MT,926990,1.2 L iCNG engine,1199,73.5@ 6000,103@3500,,,,,,3990 mm,1755 mm,1523 mm,2501 mm,165 mm,,5,"Petrol : 37L, CNG : 60L(water capacity) litres"
+Tata Altroz,"CREATIVE S DMT, DIESEL",5-2A0KZLG2,Diesel,5 Speed MT,941990,1.5 L Turbocharged Revotorq Engine,1497,90@4000,200@1250-3000,,,,,,3990 mm,1755 mm,1523 mm,2501 mm,165 mm,,5,37 litres
+Tata Altroz,"CREATIVE S PDCA, PETROL",5-2A0KZLGK,Petrol,6 Speed DCA,951990,1.2 L Revotron Engine,1199,88@ 6000,115  @ 3250,,,,,,3990 mm,1755 mm,1523 mm,2501 mm,165 mm,,5,37 litres
+Tata Altroz,"CREATIVE CNG AMT, Bi-fuel CNG",5-2D77BCLZ,CNG,5 Speed AMT,956990,1.2 L iCNG engine,1199,73.5@ 6000,103@3500,,,,,,3990 mm,1755 mm,1523 mm,2501 mm,165 mm,,5,"Petrol : 37L, CNG : 60L(water capacity) litres"
+Tata Altroz,"CREATIVE S CNG AMT, Bi-fuel CNG",5-2D77BCM0,CNG,5 Speed AMT,981990,1.2 L iCNG engine,1199,73.5@ 6000,103@3500,,,,,,3990 mm,1755 mm,1523 mm,2501 mm,165 mm,,5,"Petrol : 37L, CNG : 60L(water capacity) litres"
+Tata Altroz,"ACCOMPLISHED S CNG MT, Bi-fuel CNG",5-2A0KZLED,CNG,5 Speed MT,1021990,1.2 L iCNG engine,1199,73.5@ 6000,103@3500,,,,,,3990 mm,1755 mm,1523 mm,2501 mm,165 mm,,5,"Petrol : 37L, CNG : 60L(water capacity) litres"
+Tata Altroz,"ACCOMPLISHED S DMT, DIESEL",5-2A0KZLE7,Diesel,5 Speed MT,1026990,1.5 L Turbocharged Revotorq Engine,1497,90@4000,200@1250-3000,,,,,,3990 mm,1755 mm,1523 mm,2501 mm,165 mm,,5,37 litres
+Tata Altroz,"ACCOMPLISHED S PDCA, PETROL",5-2A0KZLEJ,Petrol,6 Speed DCA,1036990,1.2 L Revotron Engine,1199,88@ 6000,115  @ 3250,,,,,,3990 mm,1755 mm,1523 mm,2501 mm,165 mm,,5,37 litres
+Tata Altroz,"ACCOMPLISHED + S PDCA, PETROL",5-2A0KZLEP,Petrol,6 Speed DCA,1061990,1.2 L Revotron Engine,1199,88@ 6000,115  @ 3250,,,,,,3990 mm,1755 mm,1523 mm,2501 mm,165 mm,,5,37 litres
+Tata Altroz,"ACCOMPLISHED S CNG AMT, Bi-fuel CNG",5-2D76TDAB,CNG,5 Speed AMT,1076990,1.2 L Revotron Engine,1199,88@ 6000,115  @ 3250,,,,,,3990 mm,1755 mm,1523 mm,2501 mm,165 mm,,5,37 litres
+Tata Punch,"Smart P MT, Petrol",5-2CKAQK6U,Petrol,5 Speed MT,564990,1.2 Revotron Engine,1199,87.8 @ 6000,115 @ 3250,,,,,,3876 mm,1742 mm,1615 mm,2445 mm,193 mm,,5,37L litres
+Tata Punch,"Pure P MT, Petrol",5-2CKAQK6W,Petrol,5 Speed MT,654990,1.2 Revotron Engine,1199,87.8 @ 6000,115 @ 3250,,,,,,3876 mm,1742 mm,1615 mm,2445 mm,193 mm,,5,37L litres
+Tata Punch,"Smart CNG MT, Bi-fuel CNG",5-2CKAQK6V,CNG,5 Speed MT,674990,1.2 Revotron Engine,1199,73.4 @ 6000,103 @ 3500,,,,,,3876 mm,1742 mm,1615 mm,2445 mm,193 mm,,5,"Petrol - 37L , CNG - 60L(water capacity) litres"
+Tata Punch,"Pure + P MT, Petrol",5-2CKAQK6Z,Petrol,5 Speed MT,704990,1.2 Revotron Engine,1199,87.8 @ 6000,115 @ 3250,,,,,,3876 mm,1742 mm,1615 mm,2445 mm,193 mm,,5,37L litres
+Tata Punch,"Pure + S P MT, Petrol",5-2CKAQK72,Petrol,5 Speed MT,739990,1.2 Revotron Engine,1199,87.8 @ 6000,115 @ 3250,,,,,,3876 mm,1742 mm,1615 mm,2445 mm,193 mm,,5,37L litres
+Tata Punch,"Pure CNG MT, Bi-fuel CNG",5-2CKAQK6Y,CNG,5 Speed MT,754990,1.2 Revotron Engine,1199,73.4 @ 6000,103 @ 3500,,,,,,3876 mm,1742 mm,1615 mm,2445 mm,193 mm,,5,"Petrol - 37L , CNG - 60L(water capacity) litres"
+Tata Punch,"Pure + P AMT, Petrol",5-2CKAQK70,Petrol,5 Speed AMT,759990,1.2 Revotron Engine,1199,87.8 @ 6000,115 @ 3250,,,,,,3876 mm,1742 mm,1615 mm,2445 mm,193 mm,,5,37L litres
+Tata Punch,"Adventure P MT, Petrol",5-2CKAQK75,Petrol,5 Speed MT,764990,1.2 Revotron Engine,1199,87.8 @ 6000,115 @ 3250,,,,,,3876 mm,1742 mm,1615 mm,2445 mm,193 mm,,5,37L litres
+Tata Punch,"Pure + S P AMT, Petrol",5-2CKAQK73,Petrol,5 Speed AMT,794990,1.2 Revotron Engine,1199,87.8 @ 6000,115 @ 3250,,,,,,3876 mm,1742 mm,1615 mm,2445 mm,193 mm,,5,37L litres
+Tata Punch,"Adventure S P MT, Petrol",5-2CKAQK78,Petrol,5 Speed MT,799990,1.2 Revotron Engine,1199,87.8 @ 6000,115 @ 3250,,,,,,3876 mm,1742 mm,1615 mm,2445 mm,193 mm,,5,37L litres
+Tata Punch,"Pure + CNG MT, Bi-fuel CNG",5-2CKAQK71,CNG,5 Speed MT,804990,1.2 Revotron Engine,1199,73.4 @ 6000,103 @ 3500,,,,,,3876 mm,1742 mm,1615 mm,2445 mm,193 mm,,5,"Petrol - 37L , CNG - 60L(water capacity) litres"
+Tata Punch,"Adventure P AMT, Petrol",5-2CKAQK76,Petrol,5 Speed AMT,819990,1.2 Revotron Engine,1199,87.8 @ 6000,115 @ 3250,,,,,,3876 mm,1742 mm,1615 mm,2445 mm,193 mm,,5,37L litres
+Tata Punch,"Adventure TC MT, Petrol",5-2CKAQK7D,Petrol,6 Speed MT,834990,1.2L Turbocharged Revotron Engine,1199,120 @ 5500,170 @ 1750-4000,,,,,,3876 mm,1742 mm,1615 mm,2445 mm,193 mm,,5,37L litres
+Tata Punch,"Accomplished P MT, Petrol",5-2CKAQK6P,Petrol,5 Speed MT,834990,1.2 Revotron Engine,1199,87.8 @ 6000,115 @ 3250,,,,,,3876 mm,1742 mm,1615 mm,2445 mm,193 mm,,5,37L litres
+Tata Punch,"Pure + S CNG MT, Bi-fuel CNG",5-2CKAQK74,CNG,5 Speed MT,839990,1.2 Revotron Engine,1199,73.4 @ 6000,103 @ 3500,,,,,,3876 mm,1742 mm,1615 mm,2445 mm,193 mm,,5,"Petrol - 37L , CNG - 60L(water capacity) litres"
+Tata Punch,"Pure + CNG AMT, Bi-fuel CNG",5-2CKAQK7A,CNG,5 Speed AMT,859990,1.2 Revotron Engine,1199,73.4 @ 6000,103 @ 3500,,,,,,3876 mm,1742 mm,1615 mm,2445 mm,193 mm,,5,"Petrol - 37L , CNG - 60L(water capacity) litres"
+Tata Punch,"Adventure CNG MT, Bi-fuel CNG",5-2CKAQK77,CNG,5 Speed MT,864990,1.2 Revotron Engine,1199,73.4 @ 6000,103 @ 3500,,,,,,3876 mm,1742 mm,1615 mm,2445 mm,193 mm,,5,"Petrol - 37L , CNG - 60L(water capacity) litres"
+Tata Punch,"Accomplished P AMT, Petrol",5-2CKAQK6Q,Petrol,5 Speed AMT,889990,1.2 Revotron Engine,1199,87.8 @ 6000,115 @ 3250,,,,,,3876 mm,1742 mm,1615 mm,2445 mm,193 mm,,5,37L litres
+Tata Punch,"Adventure S CNG MT, Bi-fuel CNG",5-2CKAQK79,CNG,5 Speed MT,899990,1.2 Revotron Engine,1199,73.4 @ 6000,103 @ 3500,,,,,,3876 mm,1742 mm,1615 mm,2445 mm,193 mm,,5,"Petrol - 37L , CNG - 60L(water capacity) litres"
+Tata Punch,"Accomplished + S PMT, Petrol",5-2CKAQK6S,Petrol,5 Speed MT,904990,1.2 Revotron Engine,1199,87.8 @ 6000,115 @ 3250,,,,,,3876 mm,1742 mm,1615 mm,2445 mm,193 mm,,5,37L litres
+Tata Punch,"Adventure CNG AMT, Bi-fuel CNG",5-2CKAQK7B,CNG,5 Speed AMT,919990,1.2 Revotron Engine,1199,73.4 @ 6000,103 @ 3500,,,,,,3876 mm,1742 mm,1615 mm,2445 mm,193 mm,,5,"Petrol - 37L , CNG - 60L(water capacity) litres"
+Tata Punch,"Accomplished CNG MT, Bi-fuel CNG",5-2CKAQK6R,CNG,5 Speed MT,934990,1.2 Revotron Engine,1199,73.4 @ 6000,103 @ 3500,,,,,,3876 mm,1742 mm,1615 mm,2445 mm,193 mm,,5,"Petrol - 37L , CNG - 60L(water capacity) litres"
+Tata Punch,"Adventure S CNG AMT, Bi-fuel CNG",5-2CKAQK7C,CNG,5 Speed AMT,954990,1.2 Revotron Engine,1199,73.4 @ 6000,103 @ 3500,,,,,,3876 mm,1742 mm,1615 mm,2445 mm,193 mm,,5,"Petrol - 37L , CNG - 60L(water capacity) litres"
+Tata Punch,"Accomplished + S P AMT, Petrol",5-2CKAQK6T,Petrol,5 Speed AMT,959990,1.2 Revotron Engine,1199,87.8 @ 6000,115 @ 3250,,,,,,3876 mm,1742 mm,1615 mm,2445 mm,193 mm,,5,37L litres
+Tata Punch,"Accomplished + S TC MT, Petrol",5-2CKAQK7E,Petrol,6 Speed MT,984990,1.2L Turbocharged Revotron Engine,1199,120 @ 5500,170 @ 1750-4000,,,,,,3876 mm,1742 mm,1615 mm,2445 mm,193 mm,,5,37L litres
+Tata Punch,"Accomplished + S CNG AMT, Bi-fuel CNG",5-2CKAQK7F,CNG,5 Speed AMT,1059990,1.2 Revotron Engine,1199,73.4 @ 6000,103 @ 3500,,,,,,3876 mm,1742 mm,1615 mm,2445 mm,193 mm,,5,"Petrol - 37L , CNG - 60L(water capacity) litres"
+Tata Punch.ev,"Smart 30, Electric",7-25M6O8DB,Electric,Automatic,969000,,,,,30 kWH,315 km,236 km,65,154,3880 mm,1742 mm,1622 mm,2445 mm,195 mm,366 litres,5,
+Tata Punch.ev,"Smart+ 30, Electric",7-25M6O8DG,Electric,Automatic,1029000,,,,,30 kWH,315 km,236 km,65,154,3880 mm,1742 mm,1622 mm,2445 mm,195 mm,366 litres,5,
+Tata Punch.ev,"Smart+ 40, Electric",7-25M6O8DL,Electric,Automatic,1089000,,,,,40 kWH,368 km,276 km,95,154,3880 mm,1742 mm,1622 mm,2445 mm,195 mm,366 litres,5,
+Tata Punch.ev,"Adventure 40, Electric",7-25M6O8DQ,Electric,Automatic,1159000,,,,,40 kWH,368 km,276 km,95,154,3880 mm,1742 mm,1622 mm,2445 mm,195 mm,366 litres,5,
+Tata Punch.ev,"Empowered 40, Electric",7-25M6O8DX,Electric,Automatic,1229000,,,,,40 kWH,368 km,276 km,95,154,3880 mm,1742 mm,1622 mm,2445 mm,195 mm,366 litres,5,
+Tata Punch.ev,"Empowered+ S 40, Electric",7-25M6O8E5,Electric,Automatic,1259000,,,,,40 kWH,368 km,276 km,95,154,3880 mm,1742 mm,1622 mm,2445 mm,195 mm,366 litres,5,
+Tata Nexon,"Smart 1.2, Petrol",5-25DAJ7VC,Petrol,5 Speed MT,736990,1.2L Turbocharged Revotron Engine,1199,120 @5500,170 @1750-4000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Smart + 1.2, Petrol",5-25DBR6NT,Petrol,5 Speed MT,806990,1.2L Turbocharged Revotron Engine,1199,120 @5500,170 @1750-4000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Smart CNG, Bi-fuel CNG",5-296G0U0W,CNG,6 Speed MT,829990,1.2L Turbocharged Revotron Engine,1200,100 @5000,170 @2000-3000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 Petrol + 60L CNG litres
+Tata Nexon,"Smart + S 1.2, Petrol",5-25DBR6NU,Petrol,5 Speed MT,836990,1.2L Turbocharged Revotron Engine,1199,120 @5500,170 @1750-4000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Smart + AMT 1.2, Petrol",5-268F1NY6,Petrol,6 Speed AMT,881990,1.2L Turbocharged Revotron Engine,1199,120 @5500,170 @1750-4000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Pure + 1.2, Petrol",5-296G0TXT,Petrol,6 Speed MT,894990,1.2L Turbocharged Revotron Engine,1199,120 @5500,170 @1750-4000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Smart + 1.5, Diesel",5-2780QXU6,Diesel,6 Speed MT,899990,1.5L Turbocharged Revotorq Engine,1496,116 @4000,260 @1500-2750,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Smart + CNG, Bi-fuel CNG",5-28AIMX9K,CNG,6 Speed MT,921990,1.2L Turbocharged Revotron Engine,1200,100 @5000,170 @2000-3000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 Petrol + 60L CNG litres
+Tata Nexon,"Pure + S 1.2, Petrol",5-296G0U0E,Petrol,6 Speed MT,922990,1.2L Turbocharged Revotron Engine,1199,120 @5500,170 @1750-4000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Smart + S 1.5, Diesel",5-2780QXUA,Diesel,6 Speed MT,936990,1.5L Turbocharged Revotorq Engine,1496,116 @4000,260 @1500-2750,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Smart + S CNG, Bi-fuel CNG",5-28AIMX9L,CNG,6 Speed MT,951990,1.2L Turbocharged Revotron Engine,1200,100 @5000,170 @2000-3000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 Petrol + 60L CNG litres
+Tata Nexon,"Pure + AMT 1.2, Petrol",5-296G0TXU,Petrol,6 Speed AMT,959990,1.2L Turbocharged Revotron Engine,1199,120 @5500,170 @1750-4000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Pure + PS 1.2, Petrol",5-2B5HDQTI,Petrol,6 Speed MT,959990,1.2L Turbocharged Revotron Engine,1199,,170 @1750-4000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Pure + CNG, Bi-fuel CNG",5-296G0U0X,CNG,6 Speed MT,984990,1.2L Turbocharged Revotron Engine,1200,100 @5000,170 @2000-3000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 Petrol + 60L CNG litres
+Tata Nexon,"Pure + S AMT 1.2, Petrol",5-296G0U0F,Petrol,6 Speed AMT,987990,1.2L Turbocharged Revotron Engine,1199,120 @5500,170 @1750-4000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Pure + 1.5, Diesel",5-296G0TXR,Diesel,6 Speed MT,999990,1.5L Turbocharged Revotorq Engine,1496,116 @4000,260 @1500-2750,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Creative 1.2, Petrol",5-296G0U0K,Petrol,6 Speed MT,999990,1.2L Turbocharged Revotron Engine,1199,120 @5500,170 @1750-4000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Pure + S CNG, Bi-fuel CNG",5-296G0U0Y,CNG,6 Speed MT,999990,1.2L Turbocharged Revotron Engine,1200,100 @5000,170 @2000-3000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 Petrol + 60L CNG litres
+Tata Nexon,"Pure + PS AMT 1.2, Petrol",5-2B5HDQTW,Petrol,6 Speed AMT,1014990,1.2L Turbocharged Revotron Engine,1199,,170 @1750-4000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Pure + S 1.5, Diesel",5-296G0U0D,Diesel,6 Speed MT,1027990,1.5L Turbocharged Revotorq Engine,1496,116 @4000,260 @1500-2750,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Creative + S 1.2 New, Petrol",5-296G0U0P,Petrol,6 Speed MT,1034990,1.2L Turbocharged Revotron Engine,1199,120 @5500,170 @1750-4000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Pure + PS CNG, Bi-fuel CNG",5-2B5HDQUA,CNG,6 Speed MT,1039990,1.2L Turbocharged Revotron Engine,1200,,170 @2000-3000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 Petrol + 60L CNG litres
+Tata Nexon,"Pure + PS 1.5, Diesel",5-2B5HDQTP,Diesel,6 Speed MT,1054990,1.5L Turbocharged Revotorq Engine,1496,,260 @1500-2750,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Pure + AMT 1.5, Diesel",5-296G0TXS,Diesel,6 Speed AMT,1064990,1.5L Turbocharged Revotorq Engine,1496,116 @4000,260 @1500-2750,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Creative AMT 1.2, Petrol",5-296G0U0I,Petrol,6 Speed AMT,1074990,1.2L Turbocharged Revotron Engine,1199,120 @5500,170 @1750-4000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Creative + S DK 1.2 New, Petrol",5-296G0U0R,Petrol,6 Speed MT,1076990,1.5L Turbocharged Revotorq Engine,1496,120 @5500,260 @1500-2750,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Creative + S AMT 1.2 New, Petrol",5-296G0U0N,Petrol,6 Speed AMT,1104990,1.2L Turbocharged Revotron Engine,1199,120 @5500,170 @1750-4000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Creative CNG, Bi-fuel CNG",5-296G0U0Z,CNG,6 Speed MT,1104990,1.2L Turbocharged Revotron Engine,1200,100 @5000,170 @2000-3000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 Petrol + 60L CNG litres
+Tata Nexon,"Pure + PS AMT 1.5, Diesel",5-2B5HDQU3,Diesel,6 Speed AMT,1119990,1.5L Turbocharged Revotorq Engine,1496,,260 @1500-2750,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Creative 1.5, Diesel",5-296G0U0H,Diesel,6 Speed MT,1124990,1.5L Turbocharged Revotorq Engine,1496,116 @4000,260 @1500-2750,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Creative DCA 1.2 New, Petrol",5-296G0U0J,Petrol,7 Speed DCA,1124990,1.2L Turbocharged Revotron Engine,1199,,170 @1750-4000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Creative + PS 1.2, Petrol",5-28ASPKQ2,Petrol,6 Speed MT,1131990,1.2L Turbocharged Revotron Engine,1199,120 @5500,170 @1750-4000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Creative + S CNG New, Bi-fuel CNG",5-296G0U10,CNG,6 Speed MT,1134990,1.2L Turbocharged Revotron Engine,1199,100 @5000,170 @2000-3000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 Petrol + 60L CNG litres
+Tata Nexon,"Nexon Creative+S AMT DK1.2 New, Petrol",5-296G0U2J,Petrol,6 Speed AMT,1146990,1.2L Turbocharged Revotron Engine,1199,120 @5500,170 @2000-3000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Creative + S 1.5 New, Diesel",5-296G0U0M,Diesel,6 Speed MT,1149990,1.5L Turbocharged Revotorq Engine,1496,116 @4000,260 @1500-2750,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Creative + PS DK 1.2, Petrol",5-28ASPKQG,Petrol,6 Speed MT,1171990,1.2L Turbocharged Revotron Engine,1199,120 @5500,170 @1750-4000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Creative + S DK CNG New, Bi-fuel CNG",5-296G0U12,CNG,6 Speed MT,1171990,1.2L Turbocharged Revotron Engine,1199,100 @5000,170 @2000-3000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 Petrol + 60L CNG litres
+Tata Nexon,"Creative AMT 1.5, Diesel",5-296G0U0G,Diesel,6 Speed AMT,1184990,1.5L Turbocharged Revotorq Engine,1496,116 @4000,260 @1500-2750,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Creative + S DK 1.5 New, Diesel",5-296G0U0Q,Diesel,6 Speed MT,1186990,1.5L Turbocharged Revotorq Engine,1496,116 @4000,260 @1500-2750,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Creative + S AMT 1.5 New, Diesel",5-296G0U0L,Diesel,6 Speed AMT,1214990,1.5L Turbocharged Revotorq Engine,1496,116 @4000,260 @1500-2750,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Fearless + PS 1.2 New, Petrol",5-296G0U0T,Petrol,6 Speed MT,1226990,1.2L Turbocharged Revotron Engine,1199,120 @5500,170 @1750-4000,,,,,,,,,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Creative + PS CNG New, Bi-fuel CNG",5-296G0U11,CNG,6 Speed MT,1226990,1.2L Turbocharged Revotron Engine,1200,100 @5000,170 @2000-3000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 Petrol + 60L CNG litres
+Tata Nexon,"Nexon Creative + PS 1.5, Diesel",5-28ASPKP8,Diesel,6 Speed MT,1241990,1.5L Turbocharged Revotorq Engine,1496,116 @4000,260 @1500-2750,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Fearless + PS DK 1.2 New, Petrol",5-296G0U0V,Petrol,6 Speed MT,1246990,1.2L Turbocharged Revotron Engine,1199,120 @5500,170 @1750-4000,,,,,,,,,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Creative + PS DCA 1.2, Petrol",5-28ASPKPS,Petrol,7 Speed DCA,1246990,1.2L Turbocharged Revotron Engine,1199,,170 @1750-4000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Creative+S AMT DK1.5 New, Diesel",5-296G0U2I,Diesel,6 Speed AMT,1251990,1.5L Turbocharged Revotorq Engine,1496,116 @4000,260 @1500-2750,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Fearless + PS RDK 1.2, Petrol",5-2B5HDQTE,Petrol,6 Speed MT,1256990,1.2L Turbocharged Revotron Engine,1199,,170 @1750-4000,,,,,,,,,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Creative + PS DK CNG, Bi-fuel CNG",5-296G0U13,CNG,6 Speed MT,1266990,1.2L Turbocharged Revotron Engine,1200,100 @5000,170 @2000-3000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 Petrol + 60L CNG litres
+Tata Nexon,"Nexon Creative + PS DK 1.5, Diesel",5-28ASPKQA,Diesel,6 Speed MT,1281990,1.5L Turbocharged Revotorq Engine,1496,116 @4000,260 @1500-2750,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Creative + PS DCA DK 1.2, Petrol",5-28ASPKQE,Petrol,7 Speed DCA,1281990,1.2L Turbocharged Revotron Engine,1199,,170 @1750-4000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Creative + PS AMT 1.5, Diesel",5-28ASPKOY,Diesel,6 Speed AMT,1306990,1.5L Turbocharged Revotorq Engine,1496,116 @4000,260 @1500-2750,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Fearless + PS CNG New, Bi-fuel CNG",5-296G0U14,CNG,6 Speed MT,1321990,1.2L Turbocharged Revotron Engine,1200,100 @5000,170 @2000-3000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 Petrol + 60L CNG litres
+Tata Nexon,"Nexon Fearless + PS 1.5 New, Diesel",5-296G0U0S,Diesel,6 Speed MT,1336990,1.5L Turbocharged Revotorq Engine,1496,116 @4000,260 @1500-2750,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Fearless + PS DK CNG New, Bi-fuel CNG",5-296G0U15,CNG,6 Speed MT,1341990,1.2L Turbocharged Revotron Engine,1200,100 @5000,170 @2000-3000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 Petrol + 60L CNG litres
+Tata Nexon,"Nexon Fearless+PS DCA DK1.2New, Petrol",5-296G0U2O,Petrol,7 Speed DCA,1344790,1.2L Turbocharged Revotron Engine,1199,120 @5500,170 @1750-4000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Creative + PS AMT DK 1.5, Diesel",5-28ASPKQ7,Diesel,6 Speed AMT,1346990,1.5L Turbocharged Revotorq Engine,1496,116 @4000,260 @1500-2750,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Fearless + PS RDK CNG, Bi-fuel CNG",5-2B5HDQSY,CNG,6 Speed MT,1351990,1.2L Turbocharged Revotron Engine,1200,,170 @2000-3000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 Petrol + 60L CNG litres
+Tata Nexon,"Nexon Fearless + PS DK 1.5 New, Diesel",5-296G0U0U,Diesel,6 Speed MT,1356990,1.5L Turbocharged Revotorq Engine,1496,116 @4000,260 @1500-2750,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Fearless+A PS DCA 1.2, Petrol",5-2B5HDQT0,Petrol,7 Speed DCA,1361990,1.2L Turbocharged Revotron Engine,1199,,170 @1750-4000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Fearless + PS RDK 1.5, Diesel",5-2B5HDQTG,Diesel,6 Speed MT,1366990,1.5L Turbocharged Revotorq Engine,1496,,260 @1500-2750,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Fearless+A PS DCA DK1.2, Petrol",5-2B5HDQT8,Petrol,7 Speed DCA,1381990,1.2L Turbocharged Revotron Engine,1199,,170 @1750-4000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Fearless+A PS DCA RDK1.2, Petrol",5-2B5HDQTA,Petrol,7 Speed DCA,1391990,1.2L Turbocharged Revotron Engine,1199,,170 @1750-4000,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Fearless+PS AMT 1.5New, Diesel",5-296G0U2L,Diesel,6 Speed AMT,1401990,1.5L Turbocharged Revotorq Engine,1496,116 @4000,260 @1500-2750,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Fearless+PS AMT DK1.5New, Diesel",5-296G0U2N,Diesel,6 Speed AMT,1421990,1.5L Turbocharged Revotorq Engine,1496,116 @4000,260 @1500-2750,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon,"Nexon Fearless + PS AMT RDK 1.5, Diesel",5-2B5HDQTC,Diesel,6 Speed AMT,1431990,1.5L Turbocharged Revotorq Engine,1496,,260 @1500-2750,,,,,,3995 mm,1804 mm,1620 mm,2498 mm,208* mm,,5,44 litres
+Tata Nexon.ev,"Creative + MR, Electric",7-24M30ZXA,Electric,Automatic,1249000,,,,,30.0 kWh,325 km,243 km,95,215,,,,"2,498 mm",205 mm,350 litres,5,
+Tata Nexon.ev,"Fearless MR, Electric",7-24M30ZYR,Electric,Automatic,1329000,,,,,30.0 kWh,325 km,243 km,95,215,,,,"2,498 mm",205 mm,350 litres,5,
+Tata Nexon.ev,"Creative 45, Electric",7-24M960RB,Electric,Automatic,1399000,,,,,45.0 kWh,489 km,366 km,106,215,,,,"2,498 mm",190 mm,350 litres,5,
+Tata Nexon.ev,"Fearless 45, Electric",7-24VP0II9,Electric,Automatic,1499000,,,,,45.0 kWh,489 km,366 km,106,215,,,,"2,498 mm",190 mm,350 litres,5,
+Tata Nexon.ev,"Empowered 45, Electric",7-24VP0IHT,Electric,Automatic,1599000,,,,,45.0 kWh,489 km,366 km,106,215,,,,"2,498 mm",190 mm,350 litres,5,
+Tata Nexon.ev,"IB Nexon K3.ev Emp + 45, Electric",7-21M30ZXK,Electric,Automatic,1629000,,,,,45.0 kWh,489 km,366 km,98,215,3995 mm,1802 mm,1625 mm,"2,498 mm",190 mm,350 litres,5,
+Tata Nexon.ev,"Empowered+ A 45, Electric",7-25553H23,Electric,Automatic,1729000,,,,,45.0 kWh,489 km,366 km,106,215,,,,"2,498 mm",190 mm,350 litres,5,
+Tata Nexon.ev,"Empowered+ A 45 RDK, Electric",7-25553H2A,Electric,Automatic,1749000,,,,,45.0 kWh,489 km,366 km,106,215,,,,"2,498 mm",190 mm,350 litres,5,
+Tata Nexon.ev,"Empowered+ A 45 DK, Electric",7-25553H2C,Electric,Automatic,1749000,,,,,45.0 kWh,489 km,366 km,106,215,,,,"2,498 mm",190 mm,350 litres,5,
+Tata Harrier,"Smart  P, Petrol",5-2C3CHUKF,Petrol,MT,1289000,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Smart, Diesel",5-25NA648M,Diesel,MT,1399990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Pure X P, Petrol",5-2C7FYNTE,Petrol,MT,1599990,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Pure X Dark P, Petrol",5-2C7FYNTC,Petrol,MT,1663390,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Adventure X  P, Petrol",5-2C7JIEJO,Petrol,MT,1686490,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Adventure X+ P, Petrol",5-2C7JIEK4,Petrol,MT,1713590,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Pure X, Diesel",5-2AOV8A6H,Diesel,MT,1714990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Adventure X Dark P, Petrol",5-2C7JIEJM,Petrol,MT,1738490,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Pure X P (AT), Petrol",5-2C7FYNT5,Petrol,AT,1753190,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Adventure X+ Dark P, Petrol",5-2C7JIEK2,Petrol,MT,1765590,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Pure X Dark, Diesel",5-2AOV8A6D,Diesel,MT,1779990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Pure X Dark P (AT), Petrol",5-2C7FYNTA,Petrol,AT,1791090,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Adventure X, Diesel",5-2AOV8A6V,Diesel,MT,1814990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Adventure X+, Diesel",5-2AOV8A7B,Diesel,MT,1844990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Adventure X P (AT), Petrol",5-2C7JIEJF,Petrol,AT,1847290,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Pure X (AT), Diesel",5-2AOV8A6M,Diesel,AT,1864990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Adventure X Dark, Diesel",5-2AOV8A6R,Diesel,MT,1869990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Adventure X+ P (AT), Petrol",5-2C7JIEJU,Petrol,AT,1874390,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Adventure X Dark P (AT), Petrol",5-2C7IJ0LX,Petrol,AT,1889990,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Adventure X+ Dark, Diesel",5-2AOV8A77,Diesel,MT,1894990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Pure X Dark (AT), Diesel",5-2AOV8A6F,Diesel,AT,1909990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Adventure X+ Dark P (AT), Petrol",5-2C7JIEK0,Petrol,AT,1926390,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Adventure X (AT), Diesel",5-2AOV8A71,Diesel,AT,1964990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Fearless X P, Petrol",5-2C7JIEKK,Petrol,MT,1999990,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Adventure X+ (AT), Diesel",5-2AOV8A7H,Diesel,AT,1999990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Adventure X Dark (AT), Diesel",5-2AOV8A6T,Diesel,AT,2019990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Adventure X+ Dark (AT), Diesel",5-2AOV8A79,Diesel,AT,2054990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Fearless X Dark P, Petrol",5-2C7JIEKI,Petrol,MT,2065390,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Fearless X, Diesel",5-2ARCAHS9,Diesel,MT,2124990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Fearless X P (AT), Petrol",5-2C7JIEKA,Petrol,AT,2178890,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Fearless X Dark, Diesel",5-2ARCAHS5,Diesel,MT,2179990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Fearless X + P, Petrol",5-2C7FYNSU,Petrol,MT,2211990,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Fearless X Dark P (AT), Petrol",5-2C7JIEKG,Petrol,AT,2230890,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Fearless X + Dark P, Petrol",5-2C7FYNSS,Petrol,MT,2263990,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Fearless UL P, Petrol",5-2C7FX4PT,Petrol,MT,2271990,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Fearless X (AT), Diesel",5-2ARCAHSF,Diesel,AT,2279990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Fearless X +, Diesel",5-2ARCAHSP,Diesel,MT,2324990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Fearless UL R Dark P, Petrol",5-2C7FYNT3,Petrol,MT,2326990,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Fearless X Dark (AT), Diesel",5-2ARCAHS7,Diesel,AT,2339990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Fearless X + P (AT), Petrol",5-2C7JIEKQ,Petrol,AT,2353890,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Fearless X + Dark, Diesel",5-2ARCAHSL,Diesel,MT,2379990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Fearless UL, Diesel",5-2DEPC5UJ,Diesel,MT,2384990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Fearless X + Dark P (AT), Petrol",5-2C7FYNSQ,Petrol,AT,2405890,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Fearless UL P (AT), Petrol",5-2C7FX4PR,Petrol,AT,2413890,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Fearless UL R Dark, Diesel",5-2DEPC5UF,Diesel,MT,2439990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Fearless UL R Dark P (AT), Petrol",5-2C7FYNT1,Petrol,AT,2468890,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Fearless X + (AT), Diesel",5-2ARCAHSW,Diesel,AT,2469990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Fearless X + Dark (AT), Diesel",5-2ARCAHSN,Diesel,AT,2519990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Fearless UL (AT), Diesel",5-2DEPC5UL,Diesel,AT,2529990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier,"Fearless UL R Dark  (AT), Diesel",5-2DEPC5UH,Diesel,AT,2584990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4605 mm,1922 mm,1718 mm,2741 mm,,,5,50 litres
+Tata Harrier.ev,"Adventure 65, Electric",7-252Y4YUP,Electric,Automatic,2149000,,,,,65.0 kWh,622 km,466 km,238 PS,RWD,4607 mm,2132 mm,1740 mm,2741 mm,,502 L litres,5,
+Tata Harrier.ev,"Adventure 65 ACFC, Electric",7-259X4AVR,Electric,Automatic,2198000,,,,,65.0 kWh,622 km,466 km,238 PS,RWD,4607 mm,2132 mm,1740 mm,2741 mm,,502 L litres,5,
+Tata Harrier.ev,"Adventure S 65, Electric",7-257HXKXW,Electric,Automatic,2199000,,,,,65.0 kWh,622 km,466 km,238 PS,RWD,4607 mm,2132 mm,1740 mm,2741 mm,,502 L litres,5,
+Tata Harrier.ev,"Adventure S 65 ACFC, Electric",7-259X4AVT,Electric,Automatic,2248000,,,,,65.0 kWh,622 km,466 km,238 PS,RWD,4607 mm,2132 mm,1740 mm,2741 mm,,502 L litres,5,
+Tata Harrier.ev,"Fearless+ 65, Electric",7-257HXKXZ,Electric,Automatic,2399000,,,,,65.0 kWh,622 km,466 km,238 PS,RWD,4607 mm,2132 mm,1740 mm,2741 mm,,502 L litres,5,
+Tata Harrier.ev,"Fearless+ 65 ACFC, Electric",7-259X4AVU,Electric,Automatic,2448000,,,,,65.0 kWh,622 km,466 km,238 PS,RWD,4607 mm,2132 mm,1740 mm,2741 mm,,502 L litres,5,
+Tata Harrier.ev,"Fearless+ 75, Electric",7-257HXKY2,Electric,Automatic,2499000,,,,,75.0 kWh,622 km,466 km,238 PS,RWD,4607 mm,2132 mm,1740 mm,2741 mm,,502 L litres,5,
+Tata Harrier.ev,"Fearless+ 75 ACFC, Electric",7-259X4AVV,Electric,Automatic,2548000,,,,,75.0 kWh,622 km,466 km,238 PS,RWD,4607 mm,2132 mm,1740 mm,2741 mm,,502 L litres,5,
+Tata Harrier.ev,"Fearless+ AWD 75, Electric",7-25GKX6DZ,Electric,Automatic,2649000,,,,,75.0 kWh,622 km,466 km,"Front : 158 PS
+Rear : 238 PS",AWD,4607 mm,2132 mm,1740 mm,2741 mm,,502 L litres,5,
+Tata Harrier.ev,"Fearless+ AWD75ACFC, Electric",7-25GKX6EJ,Electric,Automatic,2698000,,,,,75.0 kWh,622 km,466 km,"Front : 158 PS
+Rear : 238 PS",AWD,4607 mm,2132 mm,1740 mm,2741 mm,,502 L litres,5,
+Tata Harrier.ev,"Empowered 75, Electric",7-257HXKXN,Electric,Automatic,2749000,,,,,75.0 kWh,622 km,466 km,238 PS,RWD,4607 mm,2132 mm,1740 mm,2741 mm,,502 L litres,5,
+Tata Harrier.ev,"Empowered 75 ACFC, Electric",7-259X4AVW,Electric,Automatic,2798000,,,,,75.0 kWh,622 km,466 km,238 PS,RWD,4607 mm,2132 mm,1740 mm,2741 mm,,502 L litres,5,
+Tata Harrier.ev,"Empowered ST 75, Electric",7-257HXKY5,Electric,Automatic,2824000,,,,,75.0 kWh,622 km,466 km,238 PS,RWD,4607 mm,2132 mm,1740 mm,2741 mm,,502 L litres,5,
+Tata Harrier.ev,"Empowered ST 75 ACFC, Electric",7-259X4AVX,Electric,Automatic,2873000,,,,,75.0 kWh,622 km,466 km,238 PS,RWD,4607 mm,2132 mm,1740 mm,2741 mm,,502 L litres,5,
+Tata Harrier.ev,"Empowered AWD 75, Electric",7-256H3PWL,Electric,Automatic,2899000,,,,,75.0 kWh,622 km,466 km,"Front : 158 PS
+Rear : 238 PS",AWD,4607 mm,2132 mm,1740 mm,2741 mm,,502 L litres,5,
+Tata Harrier.ev,"Empowered AWD 75 ACFC, Electric",7-259X4AVY,Electric,Automatic,2948000,,,,,75.0 kWh,622 km,466 km,"Front : 158 PS
+Rear : 238 PS",AWD,4607 mm,2132 mm,1740 mm,2741 mm,,502 L litres,5,
+Tata Harrier.ev,"Empowered AWD ST 75, Electric",7-257HXKY7,Electric,Automatic,2974000,,,,,75.0 kWh,622 km,466 km,"Front : 158 PS
+Rear : 238 PS",AWD,4607 mm,2132 mm,1740 mm,2741 mm,,502 L litres,5,
+Tata Harrier.ev,"Empowered AWD ST 75 ACFC, Electric",7-259X4AVZ,Electric,Automatic,3023000,,,,,75.0 kWh,622 km,466 km,"Front : 158 PS
+Rear : 238 PS",AWD,4607 mm,2132 mm,1740 mm,2741 mm,,502 L litres,5,
+Tata Safari,"Smart  P, Petrol",5-2C7FYNWB,Petrol,MT,1329000,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Smart, Diesel",5-25NA6498,Diesel,MT,1474990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Pure X P, Petrol",5-2C7FYNW6,Petrol,MT,1649190,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Pure X Dark P, Petrol",5-2C7FYNW4,Petrol,MT,1701190,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Pure X, Diesel",5-2ARDFGRD,Diesel,MT,1764990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Adventure X+ P, Petrol",5-2C7FYNVQ,Petrol,MT,1775090,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Pure X P (AT), Petrol",5-2C7FYNVX,Petrol,AT,1791090,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Pure X Dark, Diesel",5-2ARDFGR9,Diesel,MT,1819990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Adventure X+ Dark P, Petrol",5-2C7FYNVO,Petrol,MT,1827190,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Pure X Dark P (AT), Petrol",5-2C7FYNW2,Petrol,AT,1852590,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Adventure X+, Diesel",5-2ARDFGS1,Diesel,MT,1899990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Pure X (AT), Diesel",5-2ARDFGRI,Diesel,AT,1909990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Adventure X+ P (AT), Petrol",5-2C7FYNVF,Petrol,AT,1935990,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Adventure X+ Dark, Diesel",5-2ARDFGRX,Diesel,MT,1954990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Pure X Dark (AT), Diesel",5-2ARDFGRB,Diesel,AT,1969990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Adventure X+ Dark P (AT), Petrol",5-2C7FYNVM,Petrol,AT,1988090,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Adventure X+ (AT), Diesel",5-2ARDFGS8,Diesel,AT,2064990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Accomplished X P, Petrol",5-2C7FYNU0,Petrol,MT,2084290,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Adventure X+ Dark (AT), Diesel",5-2ARDFGRZ,Diesel,AT,2114990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Accomplished X Dark P, Petrol",5-2C7FYNTY,Petrol,MT,2136290,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Accomplished X, Diesel",5-2AOV8A4T,Diesel,MT,2199990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Accomplished X P (AT), Petrol",5-2C7FYNTP,Petrol,AT,2249890,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Accomplished X Dark, Diesel",5-2ARDFGSF,Diesel,MT,2254990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Accomplished X + P, Petrol",5-2C7FYNV0,Petrol,MT,2273490,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Accomplished X + 6S P, Petrol",5-2C7FYNU7,Petrol,MT,2282990,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,6,50 litres
+Tata Safari,"Accomplished X Dark P (AT), Petrol",5-2C7FYNTW,Petrol,AT,2301890,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Accomplished X + Dark P, Petrol",5-2C7FYNUW,Petrol,MT,2306590,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Accomplished X + Dark 6S P, Petrol",5-2C7FYNUS,Petrol,MT,2316090,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,6,50 litres
+Tata Safari,"Accomplished UL P, Petrol",5-2C7FX4PU,Petrol,MT,2333490,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Accomplished UL 6S P, Petrol",5-2C7FX4PY,Petrol,MT,2342990,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,6,50 litres
+Tata Safari,"Accomplished X (AT), Diesel",5-2AOV8A50,Diesel,AT,2364990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Accomplished UL Red Dark P, Petrol",5-2C7FYNV7,Petrol,MT,2368490,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Accomplished UL Red Dark 6S P, Petrol",5-2C7FYNV9,Petrol,MT,2377990,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,6,50 litres
+Tata Safari,"Accomplished X +, Diesel",5-2AOV8A5B,Diesel,MT,2389990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Accomplished X + 6S, Diesel",5-2AOV8A60,Diesel,MT,2399990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,6,50 litres
+Tata Safari,"Accomplished X + P (AT), Petrol",5-2C7FYNUL,Petrol,AT,2415390,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Accomplished X Dark (AT), Diesel",5-2AOV8A4R,Diesel,AT,2419990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Accomplished X + 6S P (AT), Petrol",5-2C7FYNUE,Petrol,AT,2424890,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,6,50 litres
+Tata Safari,"Accomplished X + Dark, Diesel",5-2AOV8A57,Diesel,MT,2424990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Accomplished X + Dark 6S, Diesel",5-2AOV8A69,Diesel,MT,2434990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,6,50 litres
+Tata Safari,"Accomplished X + Dark P (AT), Petrol",5-2C7FYNUU,Petrol,AT,2448490,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Accomplished UL, Diesel",5-2DJTGUMC,Diesel,MT,2449990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Accomplished X + Dark 6S P (AT), Petrol",5-2C7FYNUY,Petrol,AT,2457990,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,6,50 litres
+Tata Safari,"Accomplished UL 6S, Diesel",5-2DJTGUM8,Diesel,MT,2459990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,6,50 litres
+Tata Safari,"Accomplished UL P (AT), Petrol",5-2C7FX4PW,Petrol,AT,2475390,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Accomplished UL 6S P (AT), Petrol",5-2C7FX4Q0,Petrol,AT,2484890,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,6,50 litres
+Tata Safari,"Accomplished UL Red Dark, Diesel",5-2DEPC5UN,Diesel,MT,2484990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Accomplished UL Red Dark 6S, Diesel",5-2DEPC5UR,Diesel,MT,2494990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,6,50 litres
+Tata Safari,"Accomplished UL Red Dark P (AT), Petrol",5-2C7FYNVB,Petrol,AT,2510390,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Accomplished UL Red Dark 6S P (AT), Petrol",5-2C7FYNVD,Petrol,AT,2519890,Hyperion 1.5L Turbo Gdi Engine,1498,170  @ 5000,280@ 1750-3500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,6,50 litres
+Tata Safari,"Accomplished X + (AT), Diesel",5-2AOV8A5I,Diesel,AT,2534990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Accomplished X + 6S (AT), Diesel",5-2AOV8A5T,Diesel,AT,2544990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,6,50 litres
+Tata Safari,"Accomplished X + Dark (AT), Diesel",5-2AOV8A59,Diesel,AT,2569990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Accomplished X + Dark 6S (AT), Diesel",5-2AOV8A67,Diesel,AT,2579990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,6,50 litres
+Tata Safari,"Accomplished UL (AT), Diesel",5-2DJTGUMA,Diesel,AT,2594990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Accomplished UL 6S (AT), Diesel",5-2DJTGUM6,Diesel,AT,2604990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,6,50 litres
+Tata Safari,"Accomplished UL Red Dark (AT), Diesel",5-2DEPC5UP,Diesel,AT,2629990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,7,50 litres
+Tata Safari,"Accomplished UL Red Dark 6S (AT), Diesel",5-2DEPC5UT,Diesel,AT,2639990,Kryotec 2.0 L Turbocharged Engine,1956,170 @ 3750,350@1750-2500,,,,,,4668 mm,1922 mm,1795 mm,2741 mm,,,6,50 litres
+Tata Curvv,"Curvv Smart 1.2, Petrol/Ethanol",5-27U3TPK7,Petrol,6 Speed MT,969990,1.2L Revotron Petrol Engine,1199,88.2 KW @ 5500 RPM,170 @ 1750-4000 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Pure+ 1.2, Petrol/Ethanol",5-27U3TPK9,Petrol,6 Speed MT,1099990,1.2L Revotron Petrol Engine,1199,88.2 KW @ 5500 RPM,170 @ 1750-4000 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Smart 1.5, Diesel",5-27YDXN2H,Diesel,6 Speed MT,1119990,1.5L Kryojet Diesel Engine,1497,86.7 kW @ 4000 RPM,260 @ 1500 -2750 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Pure+S 1.2, Petrol/Ethanol",5-27U3TPKA,Petrol,6 Speed MT,1164990,1.2L Revotron Petrol Engine,1199,88.2 KW @ 5500 RPM,170 @ 1750-4000 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Creative 1.2, Petrol/Ethanol",5-27U3TPKC,Petrol,6 Speed MT,1219990,1.2L Revotron Petrol Engine,1199,88.2 KW @ 5500 RPM,170 @ 1750-4000 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Pure+ DCA 1.2, Petrol/Ethanol",5-27U3TPKH,Petrol,7 Speed DCA,1249990,1.2L Revotron Petrol Engine,1199,88.2 KW @ 5500 RPM,170 @ 1750-4000 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Pure+ 1.5, Diesel",5-27TRY2W2,Diesel,6 Speed MT,1249990,1.5L Kryojet Diesel Engine,1497,86.7 kW @ 4000 RPM,260 @ 1500 -2750 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Creative S 1.2, Petrol/Ethanol",5-27U3TPKB,Petrol,6 Speed MT,1269990,1.2L Revotron Petrol Engine,1199,88.2 KW @ 5500 RPM,170 @ 1750-4000 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Pure+S DCA 1.2, Petrol/Ethanol",5-27U3TPKI,Petrol,7 Speed DCA,1314990,1.2L Revotron Petrol Engine,1199,88.2 KW @ 5500 RPM,170 @ 1750-4000 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Pure+S 1.5, Diesel",5-27TRY2W1,Diesel,6 Speed MT,1314990,1.5L Kryojet Diesel Engine,1497,86.7 kW @ 4000 RPM,260 @ 1500 -2750 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Creative 1.5, Diesel",5-27U3TPJW,Diesel,6 Speed MT,1369990,1.5L Kryojet Diesel Engine,1497,86.7 kW @ 4000 RPM,260 @ 1500 -2750 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Creative+S 1.2, Petrol/Ethanol",5-27U3TPKE,Petrol,6 Speed MT,1369990,1.2L Revotron Petrol Engine,1199,88.2 KW @ 5500 RPM,170 @ 1750-4000 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Creative DCA 1.2, Petrol/Ethanol",5-27U3TPKJ,Petrol,7 Speed DCA,1369990,1.2L Revotron Petrol Engine,1199,88.2 KW @ 5500 RPM,170 @ 1750-4000 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Creative S 1.2GDI, Petrol/Ethanol",5-285VH93S,Petrol,6 Speed MT,1384990,Hyperion GDi Engine,1199,91.9 KW @ 5000 RPM,225 @ 1750-3000 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Pure+ DCA 1.5, Diesel",5-285VH947,Diesel,7 Speed DCA,1394990,1.5L Kryojet Diesel Engine,1497,86.7 kW @ 4000 RPM,260 @ 1500 -2750 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Creative S 1.5, Diesel",5-27U3TPJV,Diesel,6 Speed MT,1419990,1.5L Kryojet Diesel Engine,1497,86.7 kW @ 4000 RPM,260 @ 1500 -2750 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Creative S DCA 1.2, Petrol/Ethanol",5-27QDCBKQ,Petrol,7 Speed DCA,1419990,1.2L Revotron Petrol Engine,1199,88.2 KW @ 5500 RPM,170 @ 1750-4000 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Pure+S DCA 1.5, Diesel",5-285VH94C,Diesel,7 Speed DCA,1459990,1.5L Kryojet Diesel Engine,1497,86.7 kW @ 4000 RPM,260 @ 1500 -2750 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Accomplished S 1.2, Petrol/Ethanol",5-27U3TPKG,Petrol,6 Speed MT,1464990,1.2L Revotron Petrol Engine,1199,88.2 KW @ 5500 RPM,170 @ 1750-4000 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Creative+S 1.2GDI, Petrol/Ethanol",5-27U3TPK6,Petrol,6 Speed MT,1484990,Hyperion GDi Engine,1199,91.9 KW @ 5000 RPM,225 @ 1750-3000 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Creative+S 1.5, Diesel",5-27U3TPJY,Diesel,6 Speed MT,1519990,1.5L Kryojet Diesel Engine,1497,86.7 kW @ 4000 RPM,260 @ 1500 -2750 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Creative+S DCA 1.2, Petrol/Ethanol",5-27U3RTXM,Petrol,7 Speed DCA,1519990,1.2L Revotron Petrol Engine,1199,88.2 KW @ 5500 RPM,170 @ 1750-4000 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Creative S DCA 1.5, Diesel",5-285VH93X,Diesel,7 Speed DCA,1564990,1.5L Kryojet Diesel Engine,1497,86.7 kW @ 4000 RPM,260 @ 1500 -2750 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Accomplished S 1.2GDI, Petrol/Ethanol",5-285VH93M,Petrol,6 Speed MT,1579990,Hyperion GDi Engine,1199,91.9 KW @ 5000 RPM,225 @ 1750-3000 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Accomplished S 1.2GDI DK, Petrol/Ethanol",5-29N33BOF,Petrol,6 Speed MT,1599990,Hyperion GDi Engine,1199,91.9 KW @ 5000 RPM,225 @ 1750-3000 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Accomplished S 1.5, Diesel",5-27U3TPK0,Diesel,6 Speed MT,1614990,1.5L Kryojet Diesel Engine,1497,86.7 kW @ 4000 RPM,260 @ 1500 -2750 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Accomplished S DCA 1.2, Petrol/Ethanol",5-27U3RTXW,Petrol,7 Speed DCA,1614990,1.2L Revotron Petrol Engine,1199,88.2 KW @ 5500 RPM,170 @ 1750-4000 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Creative+S DCA 1.2GDI, Petrol/Ethanol",5-285VH942,Petrol,7 Speed DCA,1634990,Hyperion GDi Engine,1199,91.9 KW @ 5000 RPM,225 @ 1750-3000 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Accomplished S 1.5 DK, Diesel",5-29N33BO7,Diesel,6 Speed MT,1634990,1.5L Kryojet Diesel Engine,1497,86.7 kW @ 4000 RPM,260 @ 1500 -2750 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Creative+S DCA 1.5, Diesel",5-27U3TPK4,Diesel,7 Speed DCA,1664990,1.5L Kryojet Diesel Engine,1497,86.7 kW @ 4000 RPM,260 @ 1500 -2750 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Accomplished+A 1.2GDI, Petrol/Ethanol",5-27U5BE2D,Petrol,6 Speed MT,1724990,Hyperion GDi Engine,1199,91.9 KW @ 5000 RPM,225 @ 1750-3000 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Accomplished S DCA 1.2GDI, Petrol/Ethanol",5-285VH977,Petrol,7 Speed DCA,1729990,Hyperion GDi Engine,1199,91.9 KW @ 5000 RPM,225 @ 1750-3000 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Accomplished+A 1.5, Diesel",5-27U3TPK1,Diesel,6 Speed MT,1744990,1.5L Kryojet Diesel Engine,1497,86.7 kW @ 4000 RPM,260 @ 1500 -2750 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Accomplished+A 1.2GDI DK, Petrol/Ethanol",5-29N33BOH,Petrol,6 Speed MT,1744990,Hyperion GDi Engine,1199,91.9 KW @ 5000 RPM,225 @ 1750-3000 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Accomplished S DCA 1.2GDI DK, Petrol/Ethanol",5-29N33BOJ,Petrol,7 Speed DCA,1749990,Hyperion GDi Engine,1199,91.9 KW @ 5000 RPM,225 @ 1750-3000 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Accomplished S DCA 1.5, Diesel",5-27U5BE1L,Diesel,7 Speed DCA,1759990,1.5L Kryojet Diesel Engine,1497,86.7 kW @ 4000 RPM,260 @ 1500 -2750 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Accomplished+A 1.5 DK, Diesel",5-29N33BO9,Diesel,6 Speed MT,1764990,1.5L Kryojet Diesel Engine,1497,86.7 kW @ 4000 RPM,260 @ 1500 -2750 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Accomplished S DCA 1.5 DK, Diesel",5-29N33BOA,Diesel,7 Speed DCA,1779990,1.5L Kryojet Diesel Engine,1497,86.7 kW @ 4000 RPM,260 @ 1500 -2750 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Accomplished+A DCA1.2GDI, Petrol/Ethanol",5-27U5BE3T,Petrol,7 Speed DCA,1874990,Hyperion GDi Engine,1199,91.9 KW @ 5000 RPM,225 @ 1750-3000 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Accomplished+A DCA 1.5, Diesel",5-27U5BE1R,Diesel,7 Speed DCA,1889990,1.5L Kryojet Diesel Engine,1497,86.7 kW @ 4000 RPM,260 @ 1500 -2750 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Accomplished+A DCA1.2GDI DK, Petrol/Ethanol",5-29N33BOL,Petrol,7 Speed DCA,1894990,Hyperion GDi Engine,1199,91.9 KW @ 5000 RPM,225 @ 1750-3000 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv,"Curvv Accomplished+A DCA 1.5 DK, Diesel",5-29N33BOD,Diesel,7 Speed DCA,1909990,1.5L Kryojet Diesel Engine,1497,86.7 kW @ 4000 RPM,260 @ 1500 -2750 RPM,,,,,,4308 mm,1810 mm,1630 mm,2560 mm mm,208 mm mm,,5,44 litres
+Tata Curvv.ev,"Accomplished X 55, Electric",7-25P4AFZZ,Electric,Automatic,1699000,,,,,55.0 kWh,585 km,438 km,123,215,4310 mm,1810 mm,1637 mm,,186 mm,500 litres,5,
+Tata Curvv.ev,"Empowered X 55, Electric",7-25P4AG04,Electric,Automatic,1919000,,,,,55.0 kWh,585 km,438 km,123,215,4310 mm,1810 mm,1637 mm,,186 mm,500 litres,5,
+Tata Curvv.ev,"Empowered X DK 55, Electric",7-25Q5REOX,Electric,Automatic,1949000,,,,,55.0 kWh,585 km,438 km,123,215,4310 mm,1810 mm,1637 mm,,186 mm,500 litres,5,
+Tata Curvv.ev,"IB Emp+ A 55, Electric",7-27TC49ED,Electric,Automatic,2199000,,,,,55.0 kWh,585 km,438 km,98,215,4310 mm,1810 mm,1637 mm,"2,560 mm",186 mm,500 litres,5,
+Tata Sierra,"SMART+ P, PETROL",5-2BHPKW0K,Petrol,6 speed MT,1149000,1.5L Revotron,1498,106@6000,145 @ 2100 rpm,,,,,,4340 mm,1841 mm,1715 mm,2730 mm,205 mm,,5,50 litres
+Tata Sierra,"PURE P, PETROL",5-2BHPKW0I,Petrol,6 speed MT,1299000,1.5L Revotron,1498,106@6000,145 @ 2100 rpm,,,,,,4340 mm,1841 mm,1715 mm,2730 mm,205 mm,,5,50 litres
+Tata Sierra,"SMART+ D, DIESEL",5-2BHPKW22,Diesel,6 speed MT,1299000,1.5L Kryojet,1497,118@4000,260@1500-2750,,,,,,4340 mm,1841 mm,1715 mm,2730 mm,205 mm,,5,50 litres
+Tata Sierra,"PURE+ P, PETROL",5-2BHPKW0O,Petrol,6 speed MT,1449000,1.5L Revotron,1498,106@6000,145 @ 2100 rpm,,,,,,4340 mm,1841 mm,1715 mm,2730 mm,205 mm,,5,50 litres
+Tata Sierra,"PURE D, DIESEL",5-2BHPKW26,Diesel,6 speed MT,1449000,1.5L Kryojet,1497,118@4000,260@1500-2750,,,,,,4340 mm,1841 mm,1715 mm,2730 mm,205 mm,,5,50 litres
+Tata Sierra,"PURE DCA P, PETROL",5-2C4I8OCB,Petrol,7 Speed DCA,1449000,1.5L Revotron,1498,106@6000,145 @ 2100 rpm,,,,,,4340 mm,1841 mm,1715 mm,2730 mm,205 mm,,5,50 litres
+Tata Sierra,"Adventure P, PETROL",5-2BHPKW0T,Petrol,6 speed MT,1529000,1.5L Revotron,1498,106@6000,145 @ 2100 rpm,,,,,,4340 mm,1841 mm,1715 mm,2730 mm,205 mm,,5,50 litres
+Tata Sierra,"Adventure+ P, PETROL",5-2BHPKW0Y,Petrol,6 speed MT,1599000,1.5L Revotron,1498,106@6000,145 @ 2100 rpm,,,,,,4340 mm,1841 mm,1715 mm,2730 mm,205 mm,,5,50 litres
+Tata Sierra,"PURE+ DCA P, PETROL",5-2BHPKW1D,Petrol,7 Speed DCA,1599000,1.5L Revotron,1498,106@6000,145 @ 2100 rpm,,,,,,4340 mm,1841 mm,1715 mm,2730 mm,205 mm,,5,50 litres
+Tata Sierra,"PURE+ D, DIESEL",5-2BHPKW2A,Diesel,6 speed MT,1599000,1.5L Kryojet,1497,118@4000,260@1500-2750,,,,,,4340 mm,1841 mm,1715 mm,2730 mm,205 mm,,5,50 litres
+Tata Sierra,"PURE AT D, DIESEL",5-2C4I8OCF,Diesel,6 Speed AT,1599000,1.5L Kryojet,1497,118@4000,280@1500-2750,,,,,,4340 mm,1841 mm,1715 mm,2730 mm,205 mm,,5,50 litres
+Tata Sierra,"Adventure D, DIESEL",5-2BHPKW2F,Diesel,6 speed MT,1649000,1.5L Kryojet,1497,118@4000,260@1500-2750,,,,,,4340 mm,1841 mm,1715 mm,2730 mm,205 mm,,5,50 litres
+Tata Sierra,"Adventure DCA P, PETROL",5-2BHPKW1I,Petrol,7 Speed DCA,1679000,1.5L Revotron,1498,106@6000,145 @ 2100 rpm,,,,,,4340 mm,1841 mm,1715 mm,2730 mm,205 mm,,5,50 litres
+Tata Sierra,"Adventure+ D, DIESEL",5-2BHPKW2K,Diesel,6 speed MT,1719000,1.5L Kryojet,1497,118@4000,260@1500-2750,,,,,,4340 mm,1841 mm,1715 mm,2730 mm,205 mm,,5,50 litres
+Tata Sierra,"PURE+ AT D, DIESEL",5-2BHPKW0D,Diesel,6 Speed AT,1749000,1.5L Kryojet,1497,118@4000,280@1500-2750,,,,,,4340 mm,1841 mm,1715 mm,2730 mm,205 mm,,5,50 litres
+Tata Sierra,"Accomplished P, PETROL",5-2BHPKW14,Petrol,6 speed MT,1799000,1.5L Revotron,1498,106@6000,145 @ 2100 rpm,,,,,,4340 mm,1841 mm,1715 mm,2730 mm,205 mm,,5,50 litres
+Tata Sierra,"Adventure+ AT GDI, PETROL",5-2BHPKW3D,Petrol,6 Speed AT,1799000,1.5L Hyperion,1498,160@5000,255 @1750-4000 rpm,,,,,,4340 mm,1841 mm,1715 mm,2730 mm,205 mm,,5,50 litres
+Tata Sierra,"Adventure+ AT D, DIESEL",5-2BHPKW2W,Diesel,6 Speed AT,1849000,1.5L Kryojet,1497,118@4000,280@1500-2750,,,,,,4340 mm,1841 mm,1715 mm,2730 mm,205 mm,,5,50 litres
+Tata Sierra,"Accomplished D, DIESEL",5-2BHPKW2Q,Diesel,6 speed MT,1899000,1.5L Kryojet,1497,118@4000,260@1500-2750,,,,,,4340 mm,1841 mm,1715 mm,2730 mm,205 mm,,5,50 litres
+Tata Sierra,"Accomplished AT GDI, PETROL",5-2BHPKW1V,Petrol,6 Speed AT,1999000,1.5L Hyperion,1498,160@5000,255 @1750-4000 rpm,,,,,,4340 mm,1841 mm,1715 mm,2730 mm,205 mm,,5,50 litres
+Tata Sierra,"Accomplished AT D, DIESEL",5-2BHPKW32,Diesel,6 Speed AT,1999000,1.5L Kryojet,1497,118@4000,280@1500-2750,,,,,,4340 mm,1841 mm,1715 mm,2730 mm,205 mm,,5,50 litres
+Tata Sierra,"Accomplished+ D, DIESEL",5-2BHPKVZZ,Diesel,6 speed MT,2029000,1.5L Kryojet,1497,118@4000,260@1500-2750,,,,,,4340 mm,1841 mm,1715 mm,2730 mm,205 mm,,5,50 litres
+Tata Sierra,"Accomplished+ AT GDI, PETROL",5-2BHPKVZP,Petrol,6 Speed AT,2099000,1.5L Hyperion,1498,160@5000,255 @1750-4000 rpm,,,,,,4340 mm,1841 mm,1715 mm,2730 mm,205 mm,,5,50 litres
+Tata Sierra,"Accomplished+ AT D, DIESEL",5-2BHPKVZW,Diesel,6 Speed AT,2129000,1.5L Kryojet,1497,118@4000,280@1500-2750,,,,,,4340 mm,1841 mm,1715 mm,2730 mm,205 mm,,5,50 litres
